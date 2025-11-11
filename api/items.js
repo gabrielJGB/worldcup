@@ -1,4 +1,4 @@
-import data from '../data/data.json' assert { type: 'json' };
+import data from '../data/data.json' with { type: 'json' };
 
 export default function handler(req, res) {
   const { id } = req.query;
