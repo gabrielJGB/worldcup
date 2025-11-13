@@ -1,0 +1,58 @@
+[
+  {
+    "key_id": 1,
+    "award_id": "A-1",
+    "award_name": "Golden Ball",
+    "award_description": "best player",
+    "year_introduced": 1978
+  },
+  {
+    "key_id": 2,
+    "award_id": "A-2",
+    "award_name": "Silver Ball",
+    "award_description": "second best player",
+    "year_introduced": 1978
+  },
+  {
+    "key_id": 3,
+    "award_id": "A-3",
+    "award_name": "Bronze Ball",
+    "award_description": "third best player",
+    "year_introduced": 1978
+  },
+  {
+    "key_id": 4,
+    "award_id": "A-4",
+    "award_name": "Golden Boot",
+    "award_description": "top goal scorer",
+    "year_introduced": 1930
+  },
+  {
+    "key_id": 5,
+    "award_id": "A-5",
+    "award_name": "Silver Boot",
+    "award_description": "second top goal scorer",
+    "year_introduced": 1930
+  },
+  {
+    "key_id": 6,
+    "award_id": "A-6",
+    "award_name": "Bronze Boot",
+    "award_description": "third top goal scorer",
+    "year_introduced": 1930
+  },
+  {
+    "key_id": 7,
+    "award_id": "A-7",
+    "award_name": "Golden Glove",
+    "award_description": "best goal keeper",
+    "year_introduced": 1994
+  },
+  {
+    "key_id": 8,
+    "award_id": "A-8",
+    "award_name": "Best Young Player",
+    "award_description": "best young player",
+    "year_introduced": 1958
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key_id": 1,
+    "confederation_id": "CF-1",
+    "confederation_name": "Asian Football Confederation",
+    "confederation_code": "AFC",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/Asian_Football_Confederation"
+  },
+  {
+    "key_id": 2,
+    "confederation_id": "CF-2",
+    "confederation_name": "Confederation of African Football",
+    "confederation_code": "CAF",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/Confederation_of_African_Football"
+  },
+  {
+    "key_id": 3,
+    "confederation_id": "CF-3",
+    "confederation_name": "Confederation of North, Central American and Caribbean Association Football",
+    "confederation_code": "CONCACAF",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/CONCACAF"
+  },
+  {
+    "key_id": 4,
+    "confederation_id": "CF-4",
+    "confederation_name": "South American Football Confederation",
+    "confederation_code": "CONMEBOL",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/CONMEBOL"
+  },
+  {
+    "key_id": 5,
+    "confederation_id": "CF-5",
+    "confederation_name": "Oceania Football Confederation",
+    "confederation_code": "OFC",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/Oceania_Football_Confederation"
+  },
+  {
+    "key_id": 6,
+    "confederation_id": "CF-6",
+    "confederation_name": "Union of European Football Associations",
+    "confederation_code": "UEFA",
+    "confederation_wikipedia_link": "https://en.wikipedia.org/wiki/UEFA"
+  }
+]

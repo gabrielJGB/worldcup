@@ -1,0 +1,1433 @@
+[
+  {
+    "key_id": 1,
+    "tournament_id": "WC-1930",
+    "tournament_name": "1930 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 2,
+    "tournament_id": "WC-1930",
+    "tournament_name": "1930 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 3
+  },
+  {
+    "key_id": 3,
+    "tournament_id": "WC-1930",
+    "tournament_name": "1930 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 3
+  },
+  {
+    "key_id": 4,
+    "tournament_id": "WC-1930",
+    "tournament_name": "1930 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 3
+  },
+  {
+    "key_id": 5,
+    "tournament_id": "WC-1950",
+    "tournament_name": "1950 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first round",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 6,
+    "tournament_id": "WC-1950",
+    "tournament_name": "1950 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first round",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 7,
+    "tournament_id": "WC-1950",
+    "tournament_name": "1950 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first round",
+    "group_name": "Group 3",
+    "count_teams": 3
+  },
+  {
+    "key_id": 8,
+    "tournament_id": "WC-1950",
+    "tournament_name": "1950 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first round",
+    "group_name": "Group 4",
+    "count_teams": 2
+  },
+  {
+    "key_id": 9,
+    "tournament_id": "WC-1950",
+    "tournament_name": "1950 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "final round",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 10,
+    "tournament_id": "WC-1954",
+    "tournament_name": "1954 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 11,
+    "tournament_id": "WC-1954",
+    "tournament_name": "1954 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 12,
+    "tournament_id": "WC-1954",
+    "tournament_name": "1954 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 13,
+    "tournament_id": "WC-1954",
+    "tournament_name": "1954 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 14,
+    "tournament_id": "WC-1958",
+    "tournament_name": "1958 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 15,
+    "tournament_id": "WC-1958",
+    "tournament_name": "1958 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 16,
+    "tournament_id": "WC-1958",
+    "tournament_name": "1958 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 17,
+    "tournament_id": "WC-1958",
+    "tournament_name": "1958 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 18,
+    "tournament_id": "WC-1962",
+    "tournament_name": "1962 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 19,
+    "tournament_id": "WC-1962",
+    "tournament_name": "1962 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 20,
+    "tournament_id": "WC-1962",
+    "tournament_name": "1962 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 21,
+    "tournament_id": "WC-1962",
+    "tournament_name": "1962 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 22,
+    "tournament_id": "WC-1966",
+    "tournament_name": "1966 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 23,
+    "tournament_id": "WC-1966",
+    "tournament_name": "1966 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 24,
+    "tournament_id": "WC-1966",
+    "tournament_name": "1966 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 25,
+    "tournament_id": "WC-1966",
+    "tournament_name": "1966 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 26,
+    "tournament_id": "WC-1970",
+    "tournament_name": "1970 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 27,
+    "tournament_id": "WC-1970",
+    "tournament_name": "1970 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 28,
+    "tournament_id": "WC-1970",
+    "tournament_name": "1970 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 29,
+    "tournament_id": "WC-1970",
+    "tournament_name": "1970 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 30,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 31,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 32,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 33,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 34,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 35,
+    "tournament_id": "WC-1974",
+    "tournament_name": "1974 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 36,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 37,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 38,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 39,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 40,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 41,
+    "tournament_id": "WC-1978",
+    "tournament_name": "1978 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 42,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 1",
+    "count_teams": 4
+  },
+  {
+    "key_id": 43,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 2",
+    "count_teams": 4
+  },
+  {
+    "key_id": 44,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 3",
+    "count_teams": 4
+  },
+  {
+    "key_id": 45,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 4",
+    "count_teams": 4
+  },
+  {
+    "key_id": 46,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 5",
+    "count_teams": 4
+  },
+  {
+    "key_id": 47,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "first group stage",
+    "group_name": "Group 6",
+    "count_teams": 4
+  },
+  {
+    "key_id": 48,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group A",
+    "count_teams": 3
+  },
+  {
+    "key_id": 49,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group B",
+    "count_teams": 3
+  },
+  {
+    "key_id": 50,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group C",
+    "count_teams": 3
+  },
+  {
+    "key_id": 51,
+    "tournament_id": "WC-1982",
+    "tournament_name": "1982 FIFA Men's World Cup",
+    "stage_number": 2,
+    "stage_name": "second group stage",
+    "group_name": "Group D",
+    "count_teams": 3
+  },
+  {
+    "key_id": 52,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 53,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 54,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 55,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 56,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 57,
+    "tournament_id": "WC-1986",
+    "tournament_name": "1986 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 58,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 59,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 60,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 61,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 62,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 63,
+    "tournament_id": "WC-1990",
+    "tournament_name": "1990 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 64,
+    "tournament_id": "WC-1991",
+    "tournament_name": "1991 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 65,
+    "tournament_id": "WC-1991",
+    "tournament_name": "1991 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 66,
+    "tournament_id": "WC-1991",
+    "tournament_name": "1991 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 67,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 68,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 69,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 70,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 71,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 72,
+    "tournament_id": "WC-1994",
+    "tournament_name": "1994 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 73,
+    "tournament_id": "WC-1995",
+    "tournament_name": "1995 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 74,
+    "tournament_id": "WC-1995",
+    "tournament_name": "1995 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 75,
+    "tournament_id": "WC-1995",
+    "tournament_name": "1995 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 76,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 77,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 78,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 79,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 80,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 81,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 82,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 83,
+    "tournament_id": "WC-1998",
+    "tournament_name": "1998 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 84,
+    "tournament_id": "WC-1999",
+    "tournament_name": "1999 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 85,
+    "tournament_id": "WC-1999",
+    "tournament_name": "1999 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 86,
+    "tournament_id": "WC-1999",
+    "tournament_name": "1999 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 87,
+    "tournament_id": "WC-1999",
+    "tournament_name": "1999 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 88,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 89,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 90,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 91,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 92,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 93,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 94,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 95,
+    "tournament_id": "WC-2002",
+    "tournament_name": "2002 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 96,
+    "tournament_id": "WC-2003",
+    "tournament_name": "2003 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 97,
+    "tournament_id": "WC-2003",
+    "tournament_name": "2003 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 98,
+    "tournament_id": "WC-2003",
+    "tournament_name": "2003 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 99,
+    "tournament_id": "WC-2003",
+    "tournament_name": "2003 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 100,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 101,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 102,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 103,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 104,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 105,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 106,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 107,
+    "tournament_id": "WC-2006",
+    "tournament_name": "2006 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 108,
+    "tournament_id": "WC-2007",
+    "tournament_name": "2007 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 109,
+    "tournament_id": "WC-2007",
+    "tournament_name": "2007 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 110,
+    "tournament_id": "WC-2007",
+    "tournament_name": "2007 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 111,
+    "tournament_id": "WC-2007",
+    "tournament_name": "2007 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 112,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 113,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 114,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 115,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 116,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 117,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 118,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 119,
+    "tournament_id": "WC-2010",
+    "tournament_name": "2010 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 120,
+    "tournament_id": "WC-2011",
+    "tournament_name": "2011 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 121,
+    "tournament_id": "WC-2011",
+    "tournament_name": "2011 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 122,
+    "tournament_id": "WC-2011",
+    "tournament_name": "2011 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 123,
+    "tournament_id": "WC-2011",
+    "tournament_name": "2011 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 124,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 125,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 126,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 127,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 128,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 129,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 130,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 131,
+    "tournament_id": "WC-2014",
+    "tournament_name": "2014 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 132,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 133,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 134,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 135,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 136,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 137,
+    "tournament_id": "WC-2015",
+    "tournament_name": "2015 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 138,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 139,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 140,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 141,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 142,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 143,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 144,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 145,
+    "tournament_id": "WC-2018",
+    "tournament_name": "2018 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  },
+  {
+    "key_id": 146,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 147,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 148,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 149,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 150,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 151,
+    "tournament_id": "WC-2019",
+    "tournament_name": "2019 FIFA Women's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 152,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group A",
+    "count_teams": 4
+  },
+  {
+    "key_id": 153,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group B",
+    "count_teams": 4
+  },
+  {
+    "key_id": 154,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group C",
+    "count_teams": 4
+  },
+  {
+    "key_id": 155,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group D",
+    "count_teams": 4
+  },
+  {
+    "key_id": 156,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group E",
+    "count_teams": 4
+  },
+  {
+    "key_id": 157,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group F",
+    "count_teams": 4
+  },
+  {
+    "key_id": 158,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group G",
+    "count_teams": 4
+  },
+  {
+    "key_id": 159,
+    "tournament_id": "WC-2022",
+    "tournament_name": "2022 FIFA Men's World Cup",
+    "stage_number": 1,
+    "stage_name": "group stage",
+    "group_name": "Group H",
+    "count_teams": 4
+  }
+]

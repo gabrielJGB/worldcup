@@ -1,0 +1,4277 @@
+[
+  {
+    "key_id": 1,
+    "manager_id": "M-001",
+    "family_name": "Acosta",
+    "given_name": "Nelson",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Nelson_Acosta"
+  },
+  {
+    "key_id": 2,
+    "manager_id": "M-002",
+    "family_name": "Addo",
+    "given_name": "Otto",
+    "female": 0,
+    "country_name": "Ghana",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Otto_Addo"
+  },
+  {
+    "key_id": 3,
+    "manager_id": "M-003",
+    "family_name": "Adshead",
+    "given_name": "John",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/John_Adshead"
+  },
+  {
+    "key_id": 4,
+    "manager_id": "M-004",
+    "family_name": "Advocaat",
+    "given_name": "Dick",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dick_Advocaat"
+  },
+  {
+    "key_id": 5,
+    "manager_id": "M-005",
+    "family_name": "Afranie",
+    "given_name": "Emmanual Kwasi",
+    "female": 0,
+    "country_name": "Ghana",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Emmanuel_Kwasi_Afranie"
+  },
+  {
+    "key_id": 6,
+    "manager_id": "M-006",
+    "family_name": "Aguirre",
+    "given_name": "Javier",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Javier_Aguirre"
+  },
+  {
+    "key_id": 7,
+    "manager_id": "M-007",
+    "family_name": "Al-Gohari",
+    "given_name": "Mahmoud",
+    "female": 0,
+    "country_name": "Egypt",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mahmoud_Al-Gohari"
+  },
+  {
+    "key_id": 8,
+    "manager_id": "M-008",
+    "family_name": "Al-Johar",
+    "given_name": "Nasser",
+    "female": 0,
+    "country_name": "Saudi Arabia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Nasser_Al-Johar"
+  },
+  {
+    "key_id": 9,
+    "manager_id": "M-009",
+    "family_name": "Al-Kharashy",
+    "given_name": "Mohammed",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mohammed_Al-Kharashy"
+  },
+  {
+    "key_id": 10,
+    "manager_id": "M-010",
+    "family_name": "Álamos",
+    "given_name": "Luis",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_%C3%81lamos"
+  },
+  {
+    "key_id": 11,
+    "manager_id": "M-011",
+    "family_name": "Alfaro",
+    "given_name": "Gustavo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gustavo_Alfaro"
+  },
+  {
+    "key_id": 12,
+    "manager_id": "M-012",
+    "family_name": "Alonso",
+    "given_name": "Diego",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Diego_Alonso"
+  },
+  {
+    "key_id": 13,
+    "manager_id": "M-013",
+    "family_name": "An",
+    "given_name": "Jong-goan",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/An_Jong-goan"
+  },
+  {
+    "key_id": 14,
+    "manager_id": "M-014",
+    "family_name": "Andersson",
+    "given_name": "Janne",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Janne_Andersson"
+  },
+  {
+    "key_id": 15,
+    "manager_id": "M-015",
+    "family_name": "Andreoli",
+    "given_name": "Franco",
+    "female": 0,
+    "country_name": "Switzerland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Franco_Andreoli"
+  },
+  {
+    "key_id": 16,
+    "manager_id": "M-016",
+    "family_name": "Antić",
+    "given_name": "Radomir",
+    "female": 0,
+    "country_name": "Serbia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Radomir_Anti%C4%87"
+  },
+  {
+    "key_id": 17,
+    "manager_id": "M-017",
+    "family_name": "Appiah",
+    "given_name": "James Kwesi",
+    "female": 0,
+    "country_name": "Ghana",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/James_Kwesi_Appiah"
+  },
+  {
+    "key_id": 18,
+    "manager_id": "M-018",
+    "family_name": "Aragonés",
+    "given_name": "Luis",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_Aragon%C3%A9s"
+  },
+  {
+    "key_id": 19,
+    "manager_id": "M-019",
+    "family_name": "Arauz",
+    "given_name": "Vanessa",
+    "female": 1,
+    "country_name": "Ecuador",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vanessa_Arauz"
+  },
+  {
+    "key_id": 20,
+    "manager_id": "M-020",
+    "family_name": "Arena",
+    "given_name": "Bruce",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bruce_Arena"
+  },
+  {
+    "key_id": 21,
+    "manager_id": "M-021",
+    "family_name": "Argauer",
+    "given_name": "Karl",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karl_Argauer"
+  },
+  {
+    "key_id": 22,
+    "manager_id": "M-022",
+    "family_name": "Arnold",
+    "given_name": "Graham",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Graham_Arnold"
+  },
+  {
+    "key_id": 23,
+    "manager_id": "M-023",
+    "family_name": "Arsenijević",
+    "given_name": "Milorad",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Milorad_Arsenijevi%C4%87"
+  },
+  {
+    "key_id": 24,
+    "manager_id": "M-024",
+    "family_name": "Aryee",
+    "given_name": "Oko",
+    "female": 0,
+    "country_name": "Ghana",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Oko_Aryee"
+  },
+  {
+    "key_id": 25,
+    "manager_id": "M-025",
+    "family_name": "Azkargorta",
+    "given_name": "Xabier",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Xabier_Azkargorta"
+  },
+  {
+    "key_id": 26,
+    "manager_id": "M-026",
+    "family_name": "Barcellos",
+    "given_name": "Jorge",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Barcellos"
+  },
+  {
+    "key_id": 27,
+    "manager_id": "M-027",
+    "family_name": "Baróti",
+    "given_name": "Lajos",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Lajos_Bar%C3%B3ti"
+  },
+  {
+    "key_id": 28,
+    "manager_id": "M-028",
+    "family_name": "Barreau",
+    "given_name": "Gaston",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gaston_Barreau"
+  },
+  {
+    "key_id": 29,
+    "manager_id": "M-029",
+    "family_name": "Basile",
+    "given_name": "Alfio",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alfio_Basile"
+  },
+  {
+    "key_id": 30,
+    "manager_id": "M-030",
+    "family_name": "Batteux",
+    "given_name": "Albert",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Albert_Batteux"
+  },
+  {
+    "key_id": 31,
+    "manager_id": "M-031",
+    "family_name": "Bearzot",
+    "given_name": "Enzo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Enzo_Bearzot"
+  },
+  {
+    "key_id": 32,
+    "manager_id": "M-032",
+    "family_name": "Beattie",
+    "given_name": "Andy",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Andy_Beattie"
+  },
+  {
+    "key_id": 33,
+    "manager_id": "M-033",
+    "family_name": "Beckenbauer",
+    "given_name": "Franz",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Franz_Beckenbauer"
+  },
+  {
+    "key_id": 34,
+    "manager_id": "M-034",
+    "family_name": "Beenhakker",
+    "given_name": "Leo",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Leo_Beenhakker"
+  },
+  {
+    "key_id": 35,
+    "manager_id": "M-035",
+    "family_name": "Béliveau",
+    "given_name": "Sylvie",
+    "female": 1,
+    "country_name": "Canada",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sylvie_B%C3%A9liveau"
+  },
+  {
+    "key_id": 36,
+    "manager_id": "M-036",
+    "family_name": "Bento",
+    "given_name": "Paulo",
+    "female": 0,
+    "country_name": "Portugal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paulo_Bento"
+  },
+  {
+    "key_id": 37,
+    "manager_id": "M-037",
+    "family_name": "Bergeroo",
+    "given_name": "Philippe",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Philippe_Bergeroo"
+  },
+  {
+    "key_id": 38,
+    "manager_id": "M-038",
+    "family_name": "Bergmark",
+    "given_name": "Orvar",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Orvar_Bergmark"
+  },
+  {
+    "key_id": 39,
+    "manager_id": "M-039",
+    "family_name": "Berhalter",
+    "given_name": "Gregg",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gregg_Berhalter"
+  },
+  {
+    "key_id": 40,
+    "manager_id": "M-040",
+    "family_name": "Berntsen",
+    "given_name": "Bjarne",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bjarne_Berntsen"
+  },
+  {
+    "key_id": 41,
+    "manager_id": "M-041",
+    "family_name": "Bertolini",
+    "given_name": "Milena",
+    "female": 1,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Milena_Bertolini"
+  },
+  {
+    "key_id": 42,
+    "manager_id": "M-042",
+    "family_name": "Beskov",
+    "given_name": "Konstantin",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Konstantin_Beskov"
+  },
+  {
+    "key_id": 43,
+    "manager_id": "M-043",
+    "family_name": "Bielsa",
+    "given_name": "Marcelo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marcelo_Bielsa"
+  },
+  {
+    "key_id": 44,
+    "manager_id": "M-044",
+    "family_name": "Bilardo",
+    "given_name": "Carlos",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carlos_Bilardo"
+  },
+  {
+    "key_id": 45,
+    "manager_id": "M-045",
+    "family_name": "Bingham",
+    "given_name": "Billy",
+    "female": 0,
+    "country_name": "Northern Ireland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Billy_Bingham"
+  },
+  {
+    "key_id": 46,
+    "manager_id": "M-046",
+    "family_name": "Bini",
+    "given_name": "Bruno",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bruno_Bini"
+  },
+  {
+    "key_id": 47,
+    "manager_id": "M-047",
+    "family_name": "Bisanz",
+    "given_name": "Gero",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gero_Bisanz"
+  },
+  {
+    "key_id": 48,
+    "manager_id": "M-048",
+    "family_name": "Blažević",
+    "given_name": "Miroslav",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Miroslav_Bla%C5%BEevi%C4%87"
+  },
+  {
+    "key_id": 49,
+    "manager_id": "M-049",
+    "family_name": "Blinda",
+    "given_name": "Abdellah",
+    "female": 0,
+    "country_name": "Morocco",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Abdellah_Blinda"
+  },
+  {
+    "key_id": 50,
+    "manager_id": "M-050",
+    "family_name": "Blokhin",
+    "given_name": "Oleg",
+    "female": 0,
+    "country_name": "Ukraine",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Oleg_Blokhin"
+  },
+  {
+    "key_id": 51,
+    "manager_id": "M-051",
+    "family_name": "Boardman",
+    "given_name": "Dave",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dave_Boardman"
+  },
+  {
+    "key_id": 52,
+    "manager_id": "M-052",
+    "family_name": "Bonev",
+    "given_name": "Hristo",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hristo_Bonev"
+  },
+  {
+    "key_id": 53,
+    "manager_id": "M-053",
+    "family_name": "Bonfrère",
+    "given_name": "Jo",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jo_Bonfr%C3%A8re"
+  },
+  {
+    "key_id": 54,
+    "manager_id": "M-054",
+    "family_name": "Borhy",
+    "given_name": "Karol",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karol_Borhy"
+  },
+  {
+    "key_id": 55,
+    "manager_id": "M-055",
+    "family_name": "Borrás",
+    "given_name": "Omar",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Omar_Borr%C3%A1s"
+  },
+  {
+    "key_id": 56,
+    "manager_id": "M-056",
+    "family_name": "Borrello",
+    "given_name": "Carlos",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carlos_Borrello"
+  },
+  {
+    "key_id": 57,
+    "manager_id": "M-057",
+    "family_name": "Bozhkov",
+    "given_name": "Stefan",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Stefan_Bozhkov"
+  },
+  {
+    "key_id": 58,
+    "manager_id": "M-058",
+    "family_name": "Bradley",
+    "given_name": "Bob",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Bradley"
+  },
+  {
+    "key_id": 59,
+    "manager_id": "M-059",
+    "family_name": "Brown",
+    "given_name": "Craig",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Craig_Brown_(footballer_born_1940)"
+  },
+  {
+    "key_id": 60,
+    "manager_id": "M-060",
+    "family_name": "Brown",
+    "given_name": "Greg",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Greg_Brown_(footballer,_born_1962)"
+  },
+  {
+    "key_id": 61,
+    "manager_id": "M-061",
+    "family_name": "Bru",
+    "given_name": "Francisco",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Francisco_Bru"
+  },
+  {
+    "key_id": 62,
+    "manager_id": "M-062",
+    "family_name": "Brückner",
+    "given_name": "Karel",
+    "female": 0,
+    "country_name": "Czech Republic",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karel_Br%C3%BCckner"
+  },
+  {
+    "key_id": 63,
+    "manager_id": "M-063",
+    "family_name": "Buccicardi",
+    "given_name": "Alberto",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alberto_Buccicardi"
+  },
+  {
+    "key_id": 64,
+    "manager_id": "M-064",
+    "family_name": "Busby",
+    "given_name": "Matt",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Matt_Busby"
+  },
+  {
+    "key_id": 65,
+    "manager_id": "M-065",
+    "family_name": "Buschner",
+    "given_name": "Georg",
+    "female": 0,
+    "country_name": "East Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Georg_Buschner"
+  },
+  {
+    "key_id": 66,
+    "manager_id": "M-066",
+    "family_name": "Butler",
+    "given_name": "Jack",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Butler_(footballer,_born_1894)"
+  },
+  {
+    "key_id": 67,
+    "manager_id": "M-067",
+    "family_name": "Bystritsky",
+    "given_name": "Yuri",
+    "female": 0,
+    "country_name": "Russia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Yuri_Bystritsky"
+  },
+  {
+    "key_id": 68,
+    "manager_id": "M-068",
+    "family_name": "Calderón",
+    "given_name": "Marcos",
+    "female": 0,
+    "country_name": "Peru",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marcos_Calder%C3%B3n"
+  },
+  {
+    "key_id": 69,
+    "manager_id": "M-069",
+    "family_name": "Camacho",
+    "given_name": "José Antonio",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Camacho"
+  },
+  {
+    "key_id": 70,
+    "manager_id": "M-070",
+    "family_name": "Cap",
+    "given_name": "Vladislao",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vladislao_Cap"
+  },
+  {
+    "key_id": 71,
+    "manager_id": "M-071",
+    "family_name": "Capello",
+    "given_name": "Fabio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fabio_Capello"
+  },
+  {
+    "key_id": 72,
+    "manager_id": "M-072",
+    "family_name": "Cárdenas",
+    "given_name": "Raúl",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ra%C3%BAl_C%C3%A1rdenas"
+  },
+  {
+    "key_id": 73,
+    "manager_id": "M-073",
+    "family_name": "Carpegiani",
+    "given_name": "Paulo César",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paulo_C%C3%A9sar_Carpegiani"
+  },
+  {
+    "key_id": 74,
+    "manager_id": "M-074",
+    "family_name": "Carrasco",
+    "given_name": "Hernán",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Carrasco"
+  },
+  {
+    "key_id": 75,
+    "manager_id": "M-075",
+    "family_name": "Caudron",
+    "given_name": "Raoul",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Raoul_Caudron"
+  },
+  {
+    "key_id": 76,
+    "manager_id": "M-076",
+    "family_name": "Cha",
+    "given_name": "Bum-kun",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cha_Bum-kun"
+  },
+  {
+    "key_id": 77,
+    "manager_id": "M-077",
+    "family_name": "Charlton",
+    "given_name": "Jack",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Charlton"
+  },
+  {
+    "key_id": 78,
+    "manager_id": "M-078",
+    "family_name": "Cherchesov",
+    "given_name": "Stanislav",
+    "female": 0,
+    "country_name": "Russia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Stanislav_Cherchesov"
+  },
+  {
+    "key_id": 79,
+    "manager_id": "M-079",
+    "family_name": "Chetali",
+    "given_name": "Abdelmajid",
+    "female": 0,
+    "country_name": "Tunisia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Abdelmajid_Chetali"
+  },
+  {
+    "key_id": 80,
+    "manager_id": "M-080",
+    "family_name": "Chong",
+    "given_name": "Tsu-pin",
+    "female": 1,
+    "country_name": "Chinese Taipei",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Chong_Tsu-pin"
+  },
+  {
+    "key_id": 81,
+    "manager_id": "M-081",
+    "family_name": "Cissé",
+    "given_name": "Aliou",
+    "female": 0,
+    "country_name": "Senegal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Aliou_Ciss%C3%A9"
+  },
+  {
+    "key_id": 82,
+    "manager_id": "M-082",
+    "family_name": "Clemente",
+    "given_name": "Javier",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Javier_Clemente"
+  },
+  {
+    "key_id": 83,
+    "manager_id": "M-083",
+    "family_name": "Copeland",
+    "given_name": "Ted",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ted_Copeland"
+  },
+  {
+    "key_id": 84,
+    "manager_id": "M-084",
+    "family_name": "Corazzo",
+    "given_name": "Juan Carlos",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Carlos_Corazzo"
+  },
+  {
+    "key_id": 85,
+    "manager_id": "M-085",
+    "family_name": "Costa",
+    "given_name": "Flávio",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Costa"
+  },
+  {
+    "key_id": 86,
+    "manager_id": "M-086",
+    "family_name": "Coutinho",
+    "given_name": "Cláudio",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cl%C3%A1udio_Coutinho"
+  },
+  {
+    "key_id": 87,
+    "manager_id": "M-087",
+    "family_name": "Cuéllar",
+    "given_name": "Leonardo",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Leonardo_Cu%C3%A9llar"
+  },
+  {
+    "key_id": 88,
+    "manager_id": "M-088",
+    "family_name": "Cúper",
+    "given_name": "Héctor",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/H%C3%A9ctor_C%C3%BAper"
+  },
+  {
+    "key_id": 89,
+    "manager_id": "M-089",
+    "family_name": "Czeizler",
+    "given_name": "Lajos",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Lajos_Czeizler"
+  },
+  {
+    "key_id": 90,
+    "manager_id": "M-090",
+    "family_name": "Dalić",
+    "given_name": "Zlatko",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Zlatko_Dali%C4%87"
+  },
+  {
+    "key_id": 91,
+    "manager_id": "M-091",
+    "family_name": "de Carvalho Rodrigues",
+    "given_name": "Píndaro",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/P%C3%ADndaro_de_Carvalho_Rodrigues"
+  },
+  {
+    "key_id": 92,
+    "manager_id": "M-092",
+    "family_name": "de la Paz Herrera",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Honduras",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Paz_Herrera"
+  },
+  {
+    "key_id": 93,
+    "manager_id": "M-093",
+    "family_name": "de Macedo",
+    "given_name": "Evaristo",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Evaristo_de_Macedo"
+  },
+  {
+    "key_id": 94,
+    "manager_id": "M-094",
+    "family_name": "del Bosque",
+    "given_name": "Vicente",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vicente_del_Bosque"
+  },
+  {
+    "key_id": 95,
+    "manager_id": "M-095",
+    "family_name": "Dennerby",
+    "given_name": "Thomas",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Thomas_Dennerby"
+  },
+  {
+    "key_id": 96,
+    "manager_id": "M-096",
+    "family_name": "Derwall",
+    "given_name": "Jupp",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jupp_Derwall"
+  },
+  {
+    "key_id": 97,
+    "manager_id": "M-097",
+    "family_name": "Deschamps",
+    "given_name": "Didier",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Didier_Deschamps"
+  },
+  {
+    "key_id": 98,
+    "manager_id": "M-098",
+    "family_name": "Diacre",
+    "given_name": "Corinne",
+    "female": 1,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Corinne_Diacre"
+  },
+  {
+    "key_id": 99,
+    "manager_id": "M-099",
+    "family_name": "DiCicco",
+    "given_name": "Tony",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tony_DiCicco"
+  },
+  {
+    "key_id": 100,
+    "manager_id": "M-100",
+    "family_name": "Didi",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)"
+  },
+  {
+    "key_id": 101,
+    "manager_id": "M-101",
+    "family_name": "Dietz",
+    "given_name": "Károly",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/K%C3%A1roly_Dietz"
+  },
+  {
+    "key_id": 102,
+    "manager_id": "M-102",
+    "family_name": "Djeumfa",
+    "given_name": "Alain",
+    "female": 0,
+    "country_name": "Cameroon",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alain_Djeumfa"
+  },
+  {
+    "key_id": 103,
+    "manager_id": "M-103",
+    "family_name": "Doherty",
+    "given_name": "Peter",
+    "female": 0,
+    "country_name": "Northern Ireland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Peter_Doherty_(footballer)"
+  },
+  {
+    "key_id": 104,
+    "manager_id": "M-104",
+    "family_name": "Domanski-Lyfors",
+    "given_name": "Marika",
+    "female": 1,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marika_Domanski-Lyfors"
+  },
+  {
+    "key_id": 105,
+    "manager_id": "M-105",
+    "family_name": "Domenech",
+    "given_name": "Raymond",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Raymond_Domenech"
+  },
+  {
+    "key_id": 106,
+    "manager_id": "M-106",
+    "family_name": "Dorrance",
+    "given_name": "Anson",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Anson_Dorrance"
+  },
+  {
+    "key_id": 107,
+    "manager_id": "M-107",
+    "family_name": "Dujković",
+    "given_name": "Ratomir",
+    "female": 0,
+    "country_name": "Serbia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ratomir_Dujkovi%C4%87"
+  },
+  {
+    "key_id": 108,
+    "manager_id": "M-108",
+    "family_name": "Dunga",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dunga"
+  },
+  {
+    "key_id": 109,
+    "manager_id": "M-109",
+    "family_name": "Durand Laguna",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Durand_Laguna"
+  },
+  {
+    "key_id": 110,
+    "manager_id": "M-110",
+    "family_name": "Effiom",
+    "given_name": "Ntiero",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ntiero_Effiom"
+  },
+  {
+    "key_id": 111,
+    "manager_id": "M-111",
+    "family_name": "Eizaguirre",
+    "given_name": "Guillermo",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Guillermo_Eizaguirre"
+  },
+  {
+    "key_id": 112,
+    "manager_id": "M-112",
+    "family_name": "Ellis",
+    "given_name": "Desiree",
+    "female": 1,
+    "country_name": "South Africa",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Desiree_Ellis"
+  },
+  {
+    "key_id": 113,
+    "manager_id": "M-113",
+    "family_name": "Ellis",
+    "given_name": "Jill",
+    "female": 1,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jill_Ellis"
+  },
+  {
+    "key_id": 114,
+    "manager_id": "M-114",
+    "family_name": "Engel",
+    "given_name": "Jerzy",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jerzy_Engel"
+  },
+  {
+    "key_id": 115,
+    "manager_id": "M-115",
+    "family_name": "Enow",
+    "given_name": "Carl",
+    "female": 0,
+    "country_name": "Cameroon",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carl_Enow"
+  },
+  {
+    "key_id": 116,
+    "manager_id": "M-116",
+    "family_name": "Enrique",
+    "given_name": "Luis",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_Enrique"
+  },
+  {
+    "key_id": 117,
+    "manager_id": "M-117",
+    "family_name": "Ericson",
+    "given_name": "Georg",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Georg_Ericson"
+  },
+  {
+    "key_id": 118,
+    "manager_id": "M-118",
+    "family_name": "Eriksson",
+    "given_name": "Sven-Göran",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sven-G%C3%B6ran_Eriksson"
+  },
+  {
+    "key_id": 119,
+    "manager_id": "M-119",
+    "family_name": "Fabbri",
+    "given_name": "Edmondo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Edmondo_Fabbri"
+  },
+  {
+    "key_id": 120,
+    "manager_id": "M-120",
+    "family_name": "Facchin",
+    "given_name": "Carlo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carlo_Facchin"
+  },
+  {
+    "key_id": 121,
+    "manager_id": "M-121",
+    "family_name": "Faria",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Faria"
+  },
+  {
+    "key_id": 122,
+    "manager_id": "M-122",
+    "family_name": "Feola",
+    "given_name": "Vicente",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vicente_Feola"
+  },
+  {
+    "key_id": 123,
+    "manager_id": "M-123",
+    "family_name": "Ferguson",
+    "given_name": "Alex",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alex_Ferguson"
+  },
+  {
+    "key_id": 124,
+    "manager_id": "M-124",
+    "family_name": "Ferrari",
+    "given_name": "Giovanni",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Giovanni_Ferrari"
+  },
+  {
+    "key_id": 125,
+    "manager_id": "M-125",
+    "family_name": "Finke",
+    "given_name": "Volker",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Volker_Finke"
+  },
+  {
+    "key_id": 126,
+    "manager_id": "M-126",
+    "family_name": "Fleitas Solich",
+    "given_name": "Manuel",
+    "female": 0,
+    "country_name": "Paraguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Manuel_Fleitas_Solich"
+  },
+  {
+    "key_id": 127,
+    "manager_id": "M-127",
+    "family_name": "Flick",
+    "given_name": "Hansi",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hansi_Flick"
+  },
+  {
+    "key_id": 128,
+    "manager_id": "M-128",
+    "family_name": "Foni",
+    "given_name": "Alfredo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alfredo_Foni"
+  },
+  {
+    "key_id": 129,
+    "manager_id": "M-129",
+    "family_name": "Fonseca",
+    "given_name": "Ademar",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ademar_Fonseca"
+  },
+  {
+    "key_id": 130,
+    "manager_id": "M-130",
+    "family_name": "Frigério",
+    "given_name": "Marcello",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marcello_Frig%C3%A9rio"
+  },
+  {
+    "key_id": 131,
+    "manager_id": "M-131",
+    "family_name": "Gansler",
+    "given_name": "Bob",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Gansler"
+  },
+  {
+    "key_id": 132,
+    "manager_id": "M-132",
+    "family_name": "Gantzhorn",
+    "given_name": "Keld",
+    "female": 0,
+    "country_name": "Denmark",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Keld_Gantzhorn"
+  },
+  {
+    "key_id": 133,
+    "manager_id": "M-133",
+    "family_name": "García",
+    "given_name": "Amadeo",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Amadeo_Garc%C3%ADa"
+  },
+  {
+    "key_id": 134,
+    "manager_id": "M-134",
+    "family_name": "Gareca",
+    "given_name": "Ricardo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ricardo_Gareca"
+  },
+  {
+    "key_id": 135,
+    "manager_id": "M-135",
+    "family_name": "Gerhardsson",
+    "given_name": "Peter",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Peter_Gerhardsson"
+  },
+  {
+    "key_id": 136,
+    "manager_id": "M-136",
+    "family_name": "Glendenning",
+    "given_name": "Bob",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Glendenning"
+  },
+  {
+    "key_id": 137,
+    "manager_id": "M-137",
+    "family_name": "Glória",
+    "given_name": "Otto",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Otto_Gl%C3%B3ria"
+  },
+  {
+    "key_id": 138,
+    "manager_id": "M-138",
+    "family_name": "Gmoch",
+    "given_name": "Jacek",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jacek_Gmoch"
+  },
+  {
+    "key_id": 139,
+    "manager_id": "M-139",
+    "family_name": "Goethals",
+    "given_name": "Raymond",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Raymond_Goethals"
+  },
+  {
+    "key_id": 140,
+    "manager_id": "M-140",
+    "family_name": "Goetinck",
+    "given_name": "Hector",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hector_Goetinck"
+  },
+  {
+    "key_id": 141,
+    "manager_id": "M-141",
+    "family_name": "Gómez",
+    "given_name": "Hernán Darío",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Dar%C3%ADo_G%C3%B3mez"
+  },
+  {
+    "key_id": 142,
+    "manager_id": "M-142",
+    "family_name": "Gonçalves",
+    "given_name": "Oliveira",
+    "female": 0,
+    "country_name": "Angola",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Oliveira_Gon%C3%A7alves"
+  },
+  {
+    "key_id": 143,
+    "manager_id": "M-143",
+    "family_name": "Gonçalves",
+    "given_name": "Paulo",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paulo_Gon%C3%A7alves_(football_manager)"
+  },
+  {
+    "key_id": 144,
+    "manager_id": "M-144",
+    "family_name": "González",
+    "given_name": "Aurelio",
+    "female": 0,
+    "country_name": "Paraguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Aurelio_Gonz%C3%A1lez_(footballer)"
+  },
+  {
+    "key_id": 145,
+    "manager_id": "M-145",
+    "family_name": "Górski",
+    "given_name": "Kazimierz",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kazimierz_G%C3%B3rski"
+  },
+  {
+    "key_id": 146,
+    "manager_id": "M-146",
+    "family_name": "Gould",
+    "given_name": "David",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/David_Gould"
+  },
+  {
+    "key_id": 147,
+    "manager_id": "M-147",
+    "family_name": "Greenwood",
+    "given_name": "Ron",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ron_Greenwood"
+  },
+  {
+    "key_id": 148,
+    "manager_id": "M-148",
+    "family_name": "Guenza",
+    "given_name": "Sergio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sergio_Guenza"
+  },
+  {
+    "key_id": 149,
+    "manager_id": "M-149",
+    "family_name": "Guérin",
+    "given_name": "Henri",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Henri_Gu%C3%A9rin_(footballer)"
+  },
+  {
+    "key_id": 150,
+    "manager_id": "M-150",
+    "family_name": "Guimarães",
+    "given_name": "Alexandre",
+    "female": 0,
+    "country_name": "Costa Rica",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alexandre_Guimar%C3%A3es"
+  },
+  {
+    "key_id": 151,
+    "manager_id": "M-151",
+    "family_name": "Güneş",
+    "given_name": "Şenol",
+    "female": 0,
+    "country_name": "Turkey",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C5%9Eenol_G%C3%BCne%C5%9F"
+  },
+  {
+    "key_id": 152,
+    "manager_id": "M-152",
+    "family_name": "Halilhodžić",
+    "given_name": "Vahid",
+    "female": 0,
+    "country_name": "Bosnia and Herzegovina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vahid_Halilhod%C5%BEi%C4%87"
+  },
+  {
+    "key_id": 153,
+    "manager_id": "M-153",
+    "family_name": "Hallgrímsson",
+    "given_name": "Heimir",
+    "female": 0,
+    "country_name": "Iceland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Heimir_Hallgr%C3%ADmsson"
+  },
+  {
+    "key_id": 154,
+    "manager_id": "M-154",
+    "family_name": "Halvorsen",
+    "given_name": "Asbjørn",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Asbj%C3%B8rn_Halvorsen"
+  },
+  {
+    "key_id": 155,
+    "manager_id": "M-155",
+    "family_name": "Hamilton",
+    "given_name": "Paul",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paul_Hamilton_(footballer,_born_1941)"
+  },
+  {
+    "key_id": 156,
+    "manager_id": "M-156",
+    "family_name": "Hao",
+    "given_name": "Wei",
+    "female": 0,
+    "country_name": "China",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hao_Wei"
+  },
+  {
+    "key_id": 157,
+    "manager_id": "M-157",
+    "family_name": "Happel",
+    "given_name": "Ernst",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ernst_Happel"
+  },
+  {
+    "key_id": 158,
+    "manager_id": "M-158",
+    "family_name": "Hareide",
+    "given_name": "Åge",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%85ge_Hareide"
+  },
+  {
+    "key_id": 159,
+    "manager_id": "M-159",
+    "family_name": "Heiner-Møller",
+    "given_name": "Kenneth",
+    "female": 0,
+    "country_name": "Denmark",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kenneth_Heiner-M%C3%B8ller"
+  },
+  {
+    "key_id": 160,
+    "manager_id": "M-160",
+    "family_name": "Heinrichs",
+    "given_name": "April",
+    "female": 1,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/April_Heinrichs"
+  },
+  {
+    "key_id": 161,
+    "manager_id": "M-161",
+    "family_name": "Herberger",
+    "given_name": "Sepp",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sepp_Herberger"
+  },
+  {
+    "key_id": 162,
+    "manager_id": "M-162",
+    "family_name": "Herbert",
+    "given_name": "Ricki",
+    "female": 0,
+    "country_name": "New Zealand",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ricki_Herbert"
+  },
+  {
+    "key_id": 163,
+    "manager_id": "M-163",
+    "family_name": "Herdman",
+    "given_name": "John",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/John_Herdman"
+  },
+  {
+    "key_id": 164,
+    "manager_id": "M-164",
+    "family_name": "Herrera",
+    "given_name": "Helenio",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Helenio_Herrera"
+  },
+  {
+    "key_id": 165,
+    "manager_id": "M-165",
+    "family_name": "Herrera",
+    "given_name": "Miguel",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Miguel_Herrera"
+  },
+  {
+    "key_id": 166,
+    "manager_id": "M-166",
+    "family_name": "Hickersberger",
+    "given_name": "Josef",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Josef_Hickersberger"
+  },
+  {
+    "key_id": 167,
+    "manager_id": "M-167",
+    "family_name": "Hidalgo",
+    "given_name": "Michel",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Michel_Hidalgo"
+  },
+  {
+    "key_id": 168,
+    "manager_id": "M-168",
+    "family_name": "Hiddink",
+    "given_name": "Guus",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Guus_Hiddink"
+  },
+  {
+    "key_id": 169,
+    "manager_id": "M-169",
+    "family_name": "Hierro",
+    "given_name": "Fernando",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fernando_Hierro"
+  },
+  {
+    "key_id": 170,
+    "manager_id": "M-170",
+    "family_name": "Hitzfeld",
+    "given_name": "Ottmar",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ottmar_Hitzfeld"
+  },
+  {
+    "key_id": 171,
+    "manager_id": "M-171",
+    "family_name": "Hjulmand",
+    "given_name": "Kasper",
+    "female": 0,
+    "country_name": "Denmark",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kasper_Hjulmand"
+  },
+  {
+    "key_id": 172,
+    "manager_id": "M-172",
+    "family_name": "Hoddle",
+    "given_name": "Glenn",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Glenn_Hoddle"
+  },
+  {
+    "key_id": 173,
+    "manager_id": "M-173",
+    "family_name": "Hodgson",
+    "given_name": "Roy",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Roy_Hodgson"
+  },
+  {
+    "key_id": 174,
+    "manager_id": "M-174",
+    "family_name": "Høgmo",
+    "given_name": "Per-Mathias",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Per-Mathias_H%C3%B8gmo"
+  },
+  {
+    "key_id": 175,
+    "manager_id": "M-175",
+    "family_name": "Hohberg",
+    "given_name": "Juan",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Hohberg"
+  },
+  {
+    "key_id": 176,
+    "manager_id": "M-176",
+    "family_name": "Hong",
+    "given_name": "Myung-bo",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Myung-bo"
+  },
+  {
+    "key_id": 177,
+    "manager_id": "M-177",
+    "family_name": "Huh",
+    "given_name": "Jung-moo",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Huh_Jung-moo"
+  },
+  {
+    "key_id": 178,
+    "manager_id": "M-178",
+    "family_name": "Hvidemose",
+    "given_name": "Jørgen",
+    "female": 0,
+    "country_name": "Denmark",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Hvidemose"
+  },
+  {
+    "key_id": 179,
+    "manager_id": "M-179",
+    "family_name": "Iordănescu",
+    "given_name": "Anghel",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Anghel_Iord%C4%83nescu"
+  },
+  {
+    "key_id": 180,
+    "manager_id": "M-180",
+    "family_name": "Ismaila",
+    "given_name": "Mabo",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mabo_Ismaila"
+  },
+  {
+    "key_id": 181,
+    "manager_id": "M-181",
+    "family_name": "Ivanković",
+    "given_name": "Branko",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Branko_Ivankovi%C4%87"
+  },
+  {
+    "key_id": 182,
+    "manager_id": "M-182",
+    "family_name": "Jacquet",
+    "given_name": "Aimé",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Aim%C3%A9_Jacquet"
+  },
+  {
+    "key_id": 183,
+    "manager_id": "M-183",
+    "family_name": "Janas",
+    "given_name": "Paweł",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Pawe%C5%82_Janas"
+  },
+  {
+    "key_id": 184,
+    "manager_id": "M-184",
+    "family_name": "Jeffrey",
+    "given_name": "William",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/William_Jeffrey_(American_soccer)"
+  },
+  {
+    "key_id": 185,
+    "manager_id": "M-185",
+    "family_name": "Jenei",
+    "given_name": "Emerich",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Emerich_Jenei"
+  },
+  {
+    "key_id": 186,
+    "manager_id": "M-186",
+    "family_name": "Jia",
+    "given_name": "Xiuquan",
+    "female": 0,
+    "country_name": "China",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jia_Xiuquan"
+  },
+  {
+    "key_id": 187,
+    "manager_id": "M-187",
+    "family_name": "Johansson",
+    "given_name": "Bo",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bo_Johansson"
+  },
+  {
+    "key_id": 188,
+    "manager_id": "M-188",
+    "family_name": "Jozić",
+    "given_name": "Mirko",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mirko_Jozi%C4%87"
+  },
+  {
+    "key_id": 189,
+    "manager_id": "M-189",
+    "family_name": "Kachalin",
+    "given_name": "Gavriil",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gavriil_Kachalin"
+  },
+  {
+    "key_id": 190,
+    "manager_id": "M-190",
+    "family_name": "Kadri",
+    "given_name": "Jalel",
+    "female": 0,
+    "country_name": "Tunisia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jalel_Kadri"
+  },
+  {
+    "key_id": 191,
+    "manager_id": "M-191",
+    "family_name": "Kałuża",
+    "given_name": "Józef",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%B3zef_Ka%C5%82u%C5%BCa"
+  },
+  {
+    "key_id": 192,
+    "manager_id": "M-192",
+    "family_name": "Kasperczak",
+    "given_name": "Henryk",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Henryk_Kasperczak"
+  },
+  {
+    "key_id": 193,
+    "manager_id": "M-193",
+    "family_name": "Katanec",
+    "given_name": "Srečko",
+    "female": 0,
+    "country_name": "Slovenia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sre%C4%8Dko_Katanec"
+  },
+  {
+    "key_id": 194,
+    "manager_id": "M-194",
+    "family_name": "Kek",
+    "given_name": "Matjaž",
+    "female": 0,
+    "country_name": "Slovenia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Matja%C5%BE_Kek"
+  },
+  {
+    "key_id": 195,
+    "manager_id": "M-195",
+    "family_name": "Kerr",
+    "given_name": "Shelley",
+    "female": 1,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Shelley_Kerr"
+  },
+  {
+    "key_id": 196,
+    "manager_id": "M-196",
+    "family_name": "Keshi",
+    "given_name": "Stephen",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Stephen_Keshi"
+  },
+  {
+    "key_id": 197,
+    "manager_id": "M-197",
+    "family_name": "Khalef",
+    "given_name": "Mahieddine",
+    "female": 0,
+    "country_name": "Algeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mahieddine_Khalef"
+  },
+  {
+    "key_id": 198,
+    "manager_id": "M-198",
+    "family_name": "Kim",
+    "given_name": "Ho",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kim_Ho"
+  },
+  {
+    "key_id": 199,
+    "manager_id": "M-199",
+    "family_name": "Kim",
+    "given_name": "Jong-hun",
+    "female": 0,
+    "country_name": "North Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kim_Jong-hun_(footballer,_born_1956)"
+  },
+  {
+    "key_id": 200,
+    "manager_id": "M-200",
+    "family_name": "Kim",
+    "given_name": "Jung-nam",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kim_Jung-nam"
+  },
+  {
+    "key_id": 201,
+    "manager_id": "M-201",
+    "family_name": "Kim",
+    "given_name": "Kwang-min",
+    "female": 0,
+    "country_name": "North Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kim_Kwang-min_(footballer,_born_1962)"
+  },
+  {
+    "key_id": 202,
+    "manager_id": "M-202",
+    "family_name": "Kim",
+    "given_name": "Yong-sik",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kim_Yong-sik"
+  },
+  {
+    "key_id": 203,
+    "manager_id": "M-203",
+    "family_name": "Kimpton",
+    "given_name": "George",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sid_Kimpton"
+  },
+  {
+    "key_id": 204,
+    "manager_id": "M-204",
+    "family_name": "Klinsmann",
+    "given_name": "Jürgen",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann"
+  },
+  {
+    "key_id": 205,
+    "manager_id": "M-205",
+    "family_name": "Kolský",
+    "given_name": "Karel",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karel_Kolsk%C3%BD"
+  },
+  {
+    "key_id": 206,
+    "manager_id": "M-206",
+    "family_name": "Kovač",
+    "given_name": "Niko",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Niko_Kova%C4%8D"
+  },
+  {
+    "key_id": 207,
+    "manager_id": "M-207",
+    "family_name": "Kranjčar",
+    "given_name": "Zlatko",
+    "female": 0,
+    "country_name": "Croatia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Zlatko_Kranj%C4%8Dar"
+  },
+  {
+    "key_id": 208,
+    "manager_id": "M-208",
+    "family_name": "Krstajić",
+    "given_name": "Mladen",
+    "female": 0,
+    "country_name": "Serbia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mladen_Krstaji%C4%87"
+  },
+  {
+    "key_id": 209,
+    "manager_id": "M-209",
+    "family_name": "Kubala",
+    "given_name": "Ladislao",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ladislao_Kubala"
+  },
+  {
+    "key_id": 210,
+    "manager_id": "M-210",
+    "family_name": "Kuhn",
+    "given_name": "Köbi",
+    "female": 0,
+    "country_name": "Switzerland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/K%C3%B6bi_Kuhn"
+  },
+  {
+    "key_id": 211,
+    "manager_id": "M-211",
+    "family_name": "La Volpe",
+    "given_name": "Ricardo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ricardo_La_Volpe"
+  },
+  {
+    "key_id": 212,
+    "manager_id": "M-212",
+    "family_name": "Lagerbäck",
+    "given_name": "Lars",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Lars_Lagerb%C3%A4ck"
+  },
+  {
+    "key_id": 213,
+    "manager_id": "M-213",
+    "family_name": "Lamouchi",
+    "given_name": "Sabri",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sabri_Lamouchi"
+  },
+  {
+    "key_id": 214,
+    "manager_id": "M-214",
+    "family_name": "Landsem",
+    "given_name": "Eli",
+    "female": 1,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Eli_Landsem"
+  },
+  {
+    "key_id": 215,
+    "manager_id": "M-215",
+    "family_name": "Lapuente",
+    "given_name": "Manuel",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Manuel_Lapuente"
+  },
+  {
+    "key_id": 216,
+    "manager_id": "M-216",
+    "family_name": "Latzke",
+    "given_name": "Felix",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Felix_Latzke"
+  },
+  {
+    "key_id": 217,
+    "manager_id": "M-217",
+    "family_name": "Lazaroni",
+    "given_name": "Sebastião",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Lazaroni"
+  },
+  {
+    "key_id": 218,
+    "manager_id": "M-218",
+    "family_name": "Le Guen",
+    "given_name": "Paul",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paul_Le_Guen"
+  },
+  {
+    "key_id": 219,
+    "manager_id": "M-219",
+    "family_name": "Le Roy",
+    "given_name": "Claude",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Claude_Le_Roy"
+  },
+  {
+    "key_id": 220,
+    "manager_id": "M-220",
+    "family_name": "Lee",
+    "given_name": "Hoe-taik",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Lee_Hoe-taik"
+  },
+  {
+    "key_id": 221,
+    "manager_id": "M-221",
+    "family_name": "Leekens",
+    "given_name": "Georges",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Georges_Leekens"
+  },
+  {
+    "key_id": 222,
+    "manager_id": "M-222",
+    "family_name": "Lemerre",
+    "given_name": "Roger",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Roger_Lemerre"
+  },
+  {
+    "key_id": 223,
+    "manager_id": "M-223",
+    "family_name": "Letelier",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Letelier"
+  },
+  {
+    "key_id": 224,
+    "manager_id": "M-224",
+    "family_name": "lima",
+    "given_name": "Kleiton",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Kleiton_Lima"
+  },
+  {
+    "key_id": 225,
+    "manager_id": "M-225",
+    "family_name": "Lippi",
+    "given_name": "Marcello",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marcello_Lippi"
+  },
+  {
+    "key_id": 226,
+    "manager_id": "M-226",
+    "family_name": "Livingstone",
+    "given_name": "Doug",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Doug_Livingstone"
+  },
+  {
+    "key_id": 227,
+    "manager_id": "M-227",
+    "family_name": "Lobanovsky",
+    "given_name": "Valeri",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Valeri_Lobanovsky"
+  },
+  {
+    "key_id": 228,
+    "manager_id": "M-228",
+    "family_name": "Lobanovskyi",
+    "given_name": "Valeriy",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi"
+  },
+  {
+    "key_id": 229,
+    "manager_id": "M-229",
+    "family_name": "Loisel",
+    "given_name": "Élisabeth",
+    "female": 1,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Loisel"
+  },
+  {
+    "key_id": 230,
+    "manager_id": "M-230",
+    "family_name": "López",
+    "given_name": "Juan",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_Fontana"
+  },
+  {
+    "key_id": 231,
+    "manager_id": "M-231",
+    "family_name": "López Herranz",
+    "given_name": "Antonio",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Herranz"
+  },
+  {
+    "key_id": 232,
+    "manager_id": "M-232",
+    "family_name": "Lorenzo",
+    "given_name": "Juan Carlos",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Carlos_Lorenzo"
+  },
+  {
+    "key_id": 233,
+    "manager_id": "M-233",
+    "family_name": "Lovrić",
+    "given_name": "Ljubomir",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ljubomir_Lovri%C4%87"
+  },
+  {
+    "key_id": 234,
+    "manager_id": "M-234",
+    "family_name": "Löw",
+    "given_name": "Joachim",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Joachim_L%C3%B6w"
+  },
+  {
+    "key_id": 235,
+    "manager_id": "M-235",
+    "family_name": "Luque de Serrallonga",
+    "given_name": "Juan",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Luque_de_Serrallonga"
+  },
+  {
+    "key_id": 236,
+    "manager_id": "M-236",
+    "family_name": "Ma",
+    "given_name": "Liangxing",
+    "female": 0,
+    "country_name": "China",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ma_Liangxing"
+  },
+  {
+    "key_id": 237,
+    "manager_id": "M-237",
+    "family_name": "Ma",
+    "given_name": "Yuanan",
+    "female": 0,
+    "country_name": "China",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ma_Yuanan"
+  },
+  {
+    "key_id": 238,
+    "manager_id": "M-238",
+    "family_name": "Maâloul",
+    "given_name": "Nabil",
+    "female": 0,
+    "country_name": "Tunisia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Nabil_Ma%C3%A2loul"
+  },
+  {
+    "key_id": 239,
+    "manager_id": "M-239",
+    "family_name": "MacLeod",
+    "given_name": "Ally",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ally_MacLeod"
+  },
+  {
+    "key_id": 240,
+    "manager_id": "M-240",
+    "family_name": "Maldini",
+    "given_name": "Cesare",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cesare_Maldini"
+  },
+  {
+    "key_id": 241,
+    "manager_id": "M-241",
+    "family_name": "Maradona",
+    "given_name": "Diego",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Diego_Maradona"
+  },
+  {
+    "key_id": 242,
+    "manager_id": "M-242",
+    "family_name": "Marko",
+    "given_name": "Jozef",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jozef_Marko"
+  },
+  {
+    "key_id": 243,
+    "manager_id": "M-243",
+    "family_name": "Martínez",
+    "given_name": "Roberto",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Roberto_Mart%C3%ADnez"
+  },
+  {
+    "key_id": 244,
+    "manager_id": "M-244",
+    "family_name": "Martino",
+    "given_name": "Gerardo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gerardo_Martino"
+  },
+  {
+    "key_id": 245,
+    "manager_id": "M-245",
+    "family_name": "Mastenbroek",
+    "given_name": "Johan",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Johannes_Christoffel_Jan_Mastenbroek"
+  },
+  {
+    "key_id": 246,
+    "manager_id": "M-246",
+    "family_name": "Maturana",
+    "given_name": "Francisco",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Francisco_Maturana"
+  },
+  {
+    "key_id": 247,
+    "manager_id": "M-247",
+    "family_name": "Mazza",
+    "given_name": "Paolo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paolo_Mazza"
+  },
+  {
+    "key_id": 248,
+    "manager_id": "M-248",
+    "family_name": "McCarthy",
+    "given_name": "Mick",
+    "female": 0,
+    "country_name": "Republic of Ireland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mick_McCarthy"
+  },
+  {
+    "key_id": 249,
+    "manager_id": "M-249",
+    "family_name": "McCrae",
+    "given_name": "James",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/James_McCrae_(footballer)"
+  },
+  {
+    "key_id": 250,
+    "manager_id": "M-250",
+    "family_name": "Meisl",
+    "given_name": "Hugo",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hugo_Meisl"
+  },
+  {
+    "key_id": 251,
+    "manager_id": "M-251",
+    "family_name": "Meissner",
+    "given_name": "Josef",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Josef_Meissner"
+  },
+  {
+    "key_id": 252,
+    "manager_id": "M-252",
+    "family_name": "Mejía Barón",
+    "given_name": "Miguel",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Miguel_Mej%C3%ADa_Bar%C3%B3n"
+  },
+  {
+    "key_id": 253,
+    "manager_id": "M-253",
+    "family_name": "Mekhloufi",
+    "given_name": "Rachid",
+    "female": 0,
+    "country_name": "Algeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rachid_Mekhloufi"
+  },
+  {
+    "key_id": 254,
+    "manager_id": "M-254",
+    "family_name": "Menotti",
+    "given_name": "César Luis",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%A9sar_Luis_Menotti"
+  },
+  {
+    "key_id": 255,
+    "manager_id": "M-255",
+    "family_name": "Menzies",
+    "given_name": "Hue",
+    "female": 0,
+    "country_name": "Jamaica",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hue_Menzies"
+  },
+  {
+    "key_id": 256,
+    "manager_id": "M-256",
+    "family_name": "Mészöly",
+    "given_name": "Kálmán",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_M%C3%A9sz%C3%B6ly"
+  },
+  {
+    "key_id": 257,
+    "manager_id": "M-257",
+    "family_name": "Metsu",
+    "given_name": "Bruno",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bruno_Metsu"
+  },
+  {
+    "key_id": 258,
+    "manager_id": "M-258",
+    "family_name": "Mezey",
+    "given_name": "György",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Mezey"
+  },
+  {
+    "key_id": 259,
+    "manager_id": "M-259",
+    "family_name": "Michel",
+    "given_name": "Henri",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Henri_Michel"
+  },
+  {
+    "key_id": 260,
+    "manager_id": "M-260",
+    "family_name": "Michels",
+    "given_name": "Rinus",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rinus_Michels"
+  },
+  {
+    "key_id": 261,
+    "manager_id": "M-261",
+    "family_name": "Michniewicz",
+    "given_name": "Czesław",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Czes%C5%82aw_Michniewicz"
+  },
+  {
+    "key_id": 262,
+    "manager_id": "M-262",
+    "family_name": "Mihajlović",
+    "given_name": "Prvoslav",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Prvoslav_Mihajlovi%C4%87"
+  },
+  {
+    "key_id": 263,
+    "manager_id": "M-263",
+    "family_name": "Milicic",
+    "given_name": "Ante",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ante_Milicic"
+  },
+  {
+    "key_id": 264,
+    "manager_id": "M-264",
+    "family_name": "Miljanić",
+    "given_name": "Miljan",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Miljan_Miljani%C4%87"
+  },
+  {
+    "key_id": 265,
+    "manager_id": "M-265",
+    "family_name": "Millar",
+    "given_name": "Robert",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Robert_Millar_(soccer)"
+  },
+  {
+    "key_id": 266,
+    "manager_id": "M-266",
+    "family_name": "Milutinović",
+    "given_name": "Bora",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bora_Milutinovi%C4%87"
+  },
+  {
+    "key_id": 267,
+    "manager_id": "M-267",
+    "family_name": "Miyauchi",
+    "given_name": "Satoshi",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Satoshi_Miyauchi"
+  },
+  {
+    "key_id": 268,
+    "manager_id": "M-268",
+    "family_name": "Mladenov",
+    "given_name": "Hristo",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hristo_Mladenov"
+  },
+  {
+    "key_id": 269,
+    "manager_id": "M-269",
+    "family_name": "Mohajerani",
+    "given_name": "Heshmat",
+    "female": 0,
+    "country_name": "Iran",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Heshmat_Mohajerani"
+  },
+  {
+    "key_id": 270,
+    "manager_id": "M-270",
+    "family_name": "Morace",
+    "given_name": "Carolina",
+    "female": 1,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carolina_Morace"
+  },
+  {
+    "key_id": 271,
+    "manager_id": "M-271",
+    "family_name": "Moreira",
+    "given_name": "Aymoré",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Aymor%C3%A9_Moreira"
+  },
+  {
+    "key_id": 272,
+    "manager_id": "M-272",
+    "family_name": "Moreira",
+    "given_name": "Zezé",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Zez%C3%A9_Moreira"
+  },
+  {
+    "key_id": 273,
+    "manager_id": "M-273",
+    "family_name": "Moriyasu",
+    "given_name": "Hajime",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hajime_Moriyasu"
+  },
+  {
+    "key_id": 274,
+    "manager_id": "M-274",
+    "family_name": "Morozov",
+    "given_name": "Nikolai",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Nikolai_Petrovich_Morozov"
+  },
+  {
+    "key_id": 275,
+    "manager_id": "M-275",
+    "family_name": "Müller",
+    "given_name": "Heinrich",
+    "female": 0,
+    "country_name": "Switzerland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Heinrich_M%C3%BCller_(footballer,_born_1888)"
+  },
+  {
+    "key_id": 276,
+    "manager_id": "M-276",
+    "family_name": "Muñoz",
+    "given_name": "Miguel",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Miguel_Mu%C3%B1oz"
+  },
+  {
+    "key_id": 277,
+    "manager_id": "M-277",
+    "family_name": "Murphy",
+    "given_name": "Jimmy",
+    "female": 0,
+    "country_name": "Wales",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jimmy_Murphy_(footballer)"
+  },
+  {
+    "key_id": 278,
+    "manager_id": "M-278",
+    "family_name": "Myong",
+    "given_name": "Dong-chan",
+    "female": 0,
+    "country_name": "North Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Myong_Dong-chan"
+  },
+  {
+    "key_id": 279,
+    "manager_id": "M-279",
+    "family_name": "Myung",
+    "given_name": "Rye-hyun",
+    "female": 0,
+    "country_name": "North Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Myung_Rye-hyun"
+  },
+  {
+    "key_id": 280,
+    "manager_id": "M-280",
+    "family_name": "Nádas",
+    "given_name": "Ödön",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%96d%C3%B6n_N%C3%A1das"
+  },
+  {
+    "key_id": 281,
+    "manager_id": "M-281",
+    "family_name": "Nagy",
+    "given_name": "József",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%B3zsef_Nagy_(footballer,_born_1892)"
+  },
+  {
+    "key_id": 282,
+    "manager_id": "M-282",
+    "family_name": "Nausch",
+    "given_name": "Walter",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Walter_Nausch"
+  },
+  {
+    "key_id": 283,
+    "manager_id": "M-283",
+    "family_name": "Nawałka",
+    "given_name": "Adam",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Adam_Nawa%C5%82ka"
+  },
+  {
+    "key_id": 284,
+    "manager_id": "M-284",
+    "family_name": "Neid",
+    "given_name": "Silvia",
+    "female": 1,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Silvia_Neid"
+  },
+  {
+    "key_id": 285,
+    "manager_id": "M-285",
+    "family_name": "Nepomnyashchy",
+    "given_name": "Valery",
+    "female": 0,
+    "country_name": "Soviet Union",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Valery_Nepomnyashchy"
+  },
+  {
+    "key_id": 286,
+    "manager_id": "M-286",
+    "family_name": "Nerz",
+    "given_name": "Otto",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Otto_Nerz"
+  },
+  {
+    "key_id": 287,
+    "manager_id": "M-287",
+    "family_name": "Neville",
+    "given_name": "Phil",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Phil_Neville"
+  },
+  {
+    "key_id": 288,
+    "manager_id": "M-288",
+    "family_name": "Niculescu",
+    "given_name": "Angelo",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Angelo_Niculescu"
+  },
+  {
+    "key_id": 289,
+    "manager_id": "M-289",
+    "family_name": "Nishino",
+    "given_name": "Akira",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Akira_Nishino_(footballer)"
+  },
+  {
+    "key_id": 290,
+    "manager_id": "M-290",
+    "family_name": "Nordin",
+    "given_name": "Olle",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Olle_Nordin"
+  },
+  {
+    "key_id": 291,
+    "manager_id": "M-291",
+    "family_name": "Novo",
+    "given_name": "Ferruccio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ferruccio_Novo"
+  },
+  {
+    "key_id": 292,
+    "manager_id": "M-292",
+    "family_name": "Ohashi",
+    "given_name": "Hiroshi",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hiroshi_Ohashi"
+  },
+  {
+    "key_id": 293,
+    "manager_id": "M-293",
+    "family_name": "Okada",
+    "given_name": "Takeshi",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Takeshi_Okada"
+  },
+  {
+    "key_id": 294,
+    "manager_id": "M-294",
+    "family_name": "Okon",
+    "given_name": "Edwin",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Edwin_Okon"
+  },
+  {
+    "key_id": 295,
+    "manager_id": "M-295",
+    "family_name": "Okpodu",
+    "given_name": "Samuel",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Okpodu"
+  },
+  {
+    "key_id": 296,
+    "manager_id": "M-296",
+    "family_name": "Olazar",
+    "given_name": "Francisco",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Francisco_Olazar"
+  },
+  {
+    "key_id": 297,
+    "manager_id": "M-297",
+    "family_name": "Oliveira",
+    "given_name": "António",
+    "female": 0,
+    "country_name": "Portugal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Oliveira_(footballer,_born_1952)"
+  },
+  {
+    "key_id": 298,
+    "manager_id": "M-298",
+    "family_name": "Olsen",
+    "given_name": "Egil",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Egil_Olsen"
+  },
+  {
+    "key_id": 299,
+    "manager_id": "M-299",
+    "family_name": "Olsen",
+    "given_name": "Morten",
+    "female": 0,
+    "country_name": "Denmark",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Morten_Olsen"
+  },
+  {
+    "key_id": 300,
+    "manager_id": "M-300",
+    "family_name": "Onigbinde",
+    "given_name": "Festus",
+    "female": 0,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Festus_Onigbinde"
+  },
+  {
+    "key_id": 301,
+    "manager_id": "M-301",
+    "family_name": "Ormond",
+    "given_name": "Willie",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Willie_Ormond"
+  },
+  {
+    "key_id": 302,
+    "manager_id": "M-302",
+    "family_name": "Orth",
+    "given_name": "György",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Orth"
+  },
+  {
+    "key_id": 303,
+    "manager_id": "M-303",
+    "family_name": "Osim",
+    "given_name": "Ivica",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ivica_Osim"
+  },
+  {
+    "key_id": 304,
+    "manager_id": "M-304",
+    "family_name": "Osorio",
+    "given_name": "Juan Carlos",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Carlos_Osorio"
+  },
+  {
+    "key_id": 305,
+    "manager_id": "M-305",
+    "family_name": "Pachedzhiev",
+    "given_name": "Georgi",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Georgi_Pachedzhiev"
+  },
+  {
+    "key_id": 306,
+    "manager_id": "M-306",
+    "family_name": "Page",
+    "given_name": "Rob",
+    "female": 0,
+    "country_name": "Wales",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rob_Page"
+  },
+  {
+    "key_id": 307,
+    "manager_id": "M-307",
+    "family_name": "Paha",
+    "given_name": "Isaac",
+    "female": 0,
+    "country_name": "Ghana",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Isaac_Paha"
+  },
+  {
+    "key_id": 308,
+    "manager_id": "M-308",
+    "family_name": "Paijkull",
+    "given_name": "Gunilla",
+    "female": 1,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gunilla_Paijkull"
+  },
+  {
+    "key_id": 309,
+    "manager_id": "M-309",
+    "family_name": "Panagoulias",
+    "given_name": "Alketas",
+    "female": 0,
+    "country_name": "Greece",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alketas_Panagoulias"
+  },
+  {
+    "key_id": 310,
+    "manager_id": "M-310",
+    "family_name": "Paquetá",
+    "given_name": "Marcos",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marcos_Paquet%C3%A1"
+  },
+  {
+    "key_id": 311,
+    "manager_id": "M-311",
+    "family_name": "Parreira",
+    "given_name": "Carlos Alberto",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carlos_Alberto_Parreira"
+  },
+  {
+    "key_id": 312,
+    "manager_id": "M-312",
+    "family_name": "Pascucci",
+    "given_name": "Felipe",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Felipe_Pascucci"
+  },
+  {
+    "key_id": 313,
+    "manager_id": "M-313",
+    "family_name": "Passarella",
+    "given_name": "Daniel",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Daniel_Passarella"
+  },
+  {
+    "key_id": 314,
+    "manager_id": "M-314",
+    "family_name": "Pedernera",
+    "given_name": "Adolfo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Adolfo_Pedernera"
+  },
+  {
+    "key_id": 315,
+    "manager_id": "M-315",
+    "family_name": "Pékerman",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_P%C3%A9kerman"
+  },
+  {
+    "key_id": 316,
+    "manager_id": "M-316",
+    "family_name": "Pellerud",
+    "given_name": "Even",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Even_Pellerud"
+  },
+  {
+    "key_id": 317,
+    "manager_id": "M-317",
+    "family_name": "Penev",
+    "given_name": "Dimitar",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dimitar_Penev"
+  },
+  {
+    "key_id": 318,
+    "manager_id": "M-318",
+    "family_name": "Petković",
+    "given_name": "Ilija",
+    "female": 0,
+    "country_name": "Serbia and Montenegro",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ilija_Petkovi%C4%87"
+  },
+  {
+    "key_id": 319,
+    "manager_id": "M-319",
+    "family_name": "Petković",
+    "given_name": "Vladimir",
+    "female": 0,
+    "country_name": "Switzerland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vladimir_Petkovi%C4%87"
+  },
+  {
+    "key_id": 320,
+    "manager_id": "M-320",
+    "family_name": "Petrů",
+    "given_name": "Karel",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karel_Petr%C5%AF"
+  },
+  {
+    "key_id": 321,
+    "manager_id": "M-321",
+    "family_name": "Pettersson",
+    "given_name": "John",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/John_Pettersson_(football_manager)"
+  },
+  {
+    "key_id": 322,
+    "manager_id": "M-322",
+    "family_name": "Pfister",
+    "given_name": "Otto",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Otto_Pfister"
+  },
+  {
+    "key_id": 323,
+    "manager_id": "M-323",
+    "family_name": "Pibarot",
+    "given_name": "Pierre",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Pierre_Pibarot"
+  },
+  {
+    "key_id": 324,
+    "manager_id": "M-324",
+    "family_name": "Piechniczek",
+    "given_name": "Antoni",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Antoni_Piechniczek"
+  },
+  {
+    "key_id": 325,
+    "manager_id": "M-325",
+    "family_name": "Pimenta",
+    "given_name": "Adhemar",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Adhemar_Pimenta"
+  },
+  {
+    "key_id": 326,
+    "manager_id": "M-326",
+    "family_name": "Pinto",
+    "given_name": "Jorge Luis",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Luis_Pinto"
+  },
+  {
+    "key_id": 327,
+    "manager_id": "M-327",
+    "family_name": "Piontek",
+    "given_name": "Sepp",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sepp_Piontek"
+  },
+  {
+    "key_id": 328,
+    "manager_id": "M-328",
+    "family_name": "Pires",
+    "given_name": "Fernando",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fernando_Pires_(footballer,_born_1951)"
+  },
+  {
+    "key_id": 329,
+    "manager_id": "M-329",
+    "family_name": "Pizzi",
+    "given_name": "Juan Antonio",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Antonio_Pizzi"
+  },
+  {
+    "key_id": 330,
+    "manager_id": "M-330",
+    "family_name": "Porta",
+    "given_name": "Roberto",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Roberto_Porta"
+  },
+  {
+    "key_id": 331,
+    "manager_id": "M-331",
+    "family_name": "Postecoglou",
+    "given_name": "Ange",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ange_Postecoglou"
+  },
+  {
+    "key_id": 332,
+    "manager_id": "M-332",
+    "family_name": "Powell",
+    "given_name": "Hope",
+    "female": 1,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Hope_Powell"
+  },
+  {
+    "key_id": 333,
+    "manager_id": "M-333",
+    "family_name": "Pozzo",
+    "given_name": "Vittorio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vittorio_Pozzo"
+  },
+  {
+    "key_id": 334,
+    "manager_id": "M-334",
+    "family_name": "Prandelli",
+    "given_name": "Cesare",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cesare_Prandelli"
+  },
+  {
+    "key_id": 335,
+    "manager_id": "M-335",
+    "family_name": "Pretto",
+    "given_name": "Mario",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mario_Pretto"
+  },
+  {
+    "key_id": 336,
+    "manager_id": "M-336",
+    "family_name": "Prohaska",
+    "given_name": "Herbert",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Herbert_Prohaska"
+  },
+  {
+    "key_id": 337,
+    "manager_id": "M-337",
+    "family_name": "Púa",
+    "given_name": "Víctor",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/V%C3%ADctor_P%C3%BAa"
+  },
+  {
+    "key_id": 338,
+    "manager_id": "M-338",
+    "family_name": "Puppo",
+    "given_name": "Sandro",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sandro_Puppo"
+  },
+  {
+    "key_id": 339,
+    "manager_id": "M-339",
+    "family_name": "Queiroz",
+    "given_name": "Carlos",
+    "female": 0,
+    "country_name": "Portugal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Carlos_Queiroz"
+  },
+  {
+    "key_id": 340,
+    "manager_id": "M-340",
+    "family_name": "Quereda",
+    "given_name": "Ignacio",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ignacio_Quereda"
+  },
+  {
+    "key_id": 341,
+    "manager_id": "M-341",
+    "family_name": "Rădulescu",
+    "given_name": "Costel",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Constantin_R%C4%83dulescu_(footballer,_born_1896)"
+  },
+  {
+    "key_id": 342,
+    "manager_id": "M-342",
+    "family_name": "Rajevac",
+    "given_name": "Milovan",
+    "female": 0,
+    "country_name": "Serbia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Milovan_Rajevac"
+  },
+  {
+    "key_id": 343,
+    "manager_id": "M-343",
+    "family_name": "Ramírez",
+    "given_name": "Óscar",
+    "female": 0,
+    "country_name": "Costa Rica",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%93scar_Ram%C3%ADrez_(footballer,_born_1964)"
+  },
+  {
+    "key_id": 344,
+    "manager_id": "M-344",
+    "family_name": "Ramsey",
+    "given_name": "Alf",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alf_Ramsey"
+  },
+  {
+    "key_id": 345,
+    "manager_id": "M-345",
+    "family_name": "Rappan",
+    "given_name": "Karl",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Karl_Rappan"
+  },
+  {
+    "key_id": 346,
+    "manager_id": "M-346",
+    "family_name": "Rasic",
+    "given_name": "Rale",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rale_Rasic"
+  },
+  {
+    "key_id": 347,
+    "manager_id": "M-347",
+    "family_name": "Raynor",
+    "given_name": "George",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/George_Raynor"
+  },
+  {
+    "key_id": 348,
+    "manager_id": "M-348",
+    "family_name": "Ré",
+    "given_name": "Cayetano",
+    "female": 0,
+    "country_name": "Paraguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cayetano_R%C3%A9"
+  },
+  {
+    "key_id": 349,
+    "manager_id": "M-349",
+    "family_name": "Readings",
+    "given_name": "Tony",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tony_Readings"
+  },
+  {
+    "key_id": 350,
+    "manager_id": "M-350",
+    "family_name": "Regragui",
+    "given_name": "Walid",
+    "female": 0,
+    "country_name": "Morocco",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Walid_Regragui"
+  },
+  {
+    "key_id": 351,
+    "manager_id": "M-351",
+    "family_name": "Rehhagel",
+    "given_name": "Otto",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Otto_Rehhagel"
+  },
+  {
+    "key_id": 352,
+    "manager_id": "M-352",
+    "family_name": "Reijners",
+    "given_name": "Roger",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Roger_Reijners"
+  },
+  {
+    "key_id": 353,
+    "manager_id": "M-353",
+    "family_name": "Renard",
+    "given_name": "Hervé",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Herv%C3%A9_Renard"
+  },
+  {
+    "key_id": 354,
+    "manager_id": "M-354",
+    "family_name": "Ri",
+    "given_name": "Song-gun",
+    "female": 0,
+    "country_name": "North Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ri_Song-gun"
+  },
+  {
+    "key_id": 355,
+    "manager_id": "M-355",
+    "family_name": "Riera",
+    "given_name": "Fernando",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fernando_Riera"
+  },
+  {
+    "key_id": 356,
+    "manager_id": "M-356",
+    "family_name": "Robson",
+    "given_name": "Bobby",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bobby_Robson"
+  },
+  {
+    "key_id": 357,
+    "manager_id": "M-357",
+    "family_name": "Roca",
+    "given_name": "José Antonio",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Roca"
+  },
+  {
+    "key_id": 358,
+    "manager_id": "M-358",
+    "family_name": "Rodríguez",
+    "given_name": "Mauricio",
+    "female": 0,
+    "country_name": "El Salvador",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mauricio_Alonso_Rodr%C3%ADguez"
+  },
+  {
+    "key_id": 359,
+    "manager_id": "M-359",
+    "family_name": "Rohr",
+    "given_name": "Gernot",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gernot_Rohr"
+  },
+  {
+    "key_id": 360,
+    "manager_id": "M-360",
+    "family_name": "Romantsev",
+    "given_name": "Oleg",
+    "female": 0,
+    "country_name": "Russia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Oleg_Romantsev"
+  },
+  {
+    "key_id": 361,
+    "manager_id": "M-361",
+    "family_name": "Roxburgh",
+    "given_name": "Andy",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Andy_Roxburgh"
+  },
+  {
+    "key_id": 362,
+    "manager_id": "M-362",
+    "family_name": "Rozo",
+    "given_name": "Ricardo",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ricardo_Rozo"
+  },
+  {
+    "key_id": 363,
+    "manager_id": "M-363",
+    "family_name": "Rueda",
+    "given_name": "Reinaldo",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Reinaldo_Rueda"
+  },
+  {
+    "key_id": 364,
+    "manager_id": "M-364",
+    "family_name": "Ruiz",
+    "given_name": "Aníbal",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/An%C3%ADbal_Ruiz"
+  },
+  {
+    "key_id": 365,
+    "manager_id": "M-365",
+    "family_name": "Ryan",
+    "given_name": "Greg",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Greg_Ryan"
+  },
+  {
+    "key_id": 366,
+    "manager_id": "M-366",
+    "family_name": "Saâdane",
+    "given_name": "Rabah",
+    "female": 0,
+    "country_name": "Algeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rabah_Sa%C3%A2dane"
+  },
+  {
+    "key_id": 367,
+    "manager_id": "M-367",
+    "family_name": "Sabella",
+    "given_name": "Alejandro",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alejandro_Sabella"
+  },
+  {
+    "key_id": 368,
+    "manager_id": "M-368",
+    "family_name": "Sacchi",
+    "given_name": "Arrigo",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Arrigo_Sacchi"
+  },
+  {
+    "key_id": 369,
+    "manager_id": "M-369",
+    "family_name": "Sadyrin",
+    "given_name": "Pavel",
+    "female": 0,
+    "country_name": "Russia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Pavel_Sadyrin"
+  },
+  {
+    "key_id": 370,
+    "manager_id": "M-370",
+    "family_name": "Sampaoli",
+    "given_name": "Jorge",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Sampaoli"
+  },
+  {
+    "key_id": 371,
+    "manager_id": "M-371",
+    "family_name": "Sampson",
+    "given_name": "Mark",
+    "female": 0,
+    "country_name": "Wales",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Mark_Sampson"
+  },
+  {
+    "key_id": 372,
+    "manager_id": "M-372",
+    "family_name": "Sampson",
+    "given_name": "Steve",
+    "female": 0,
+    "country_name": "United States",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Steve_Sampson"
+  },
+  {
+    "key_id": 373,
+    "manager_id": "M-373",
+    "family_name": "Sánchez",
+    "given_name": "Félix",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/F%C3%A9lix_S%C3%A1nchez_(football_manager)"
+  },
+  {
+    "key_id": 374,
+    "manager_id": "M-374",
+    "family_name": "Santamaría",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Santamar%C3%ADa"
+  },
+  {
+    "key_id": 375,
+    "manager_id": "M-375",
+    "family_name": "Santana",
+    "given_name": "Telê",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tel%C3%AA_Santana"
+  },
+  {
+    "key_id": 376,
+    "manager_id": "M-376",
+    "family_name": "Santibáñez",
+    "given_name": "Luis",
+    "female": 0,
+    "country_name": "Chile",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_Santib%C3%A1%C3%B1ez"
+  },
+  {
+    "key_id": 377,
+    "manager_id": "M-377",
+    "family_name": "Santos",
+    "given_name": "Fernando",
+    "female": 0,
+    "country_name": "Portugal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fernando_Santos_(footballer,_born_1954)"
+  },
+  {
+    "key_id": 378,
+    "manager_id": "M-378",
+    "family_name": "Santrac",
+    "given_name": "Adrian",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Adrian_Santrac"
+  },
+  {
+    "key_id": 379,
+    "manager_id": "M-379",
+    "family_name": "Santrač",
+    "given_name": "Slobodan",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Slobodan_Santra%C4%8D"
+  },
+  {
+    "key_id": 380,
+    "manager_id": "M-380",
+    "family_name": "Sasaki",
+    "given_name": "Norio",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Norio_Sasaki"
+  },
+  {
+    "key_id": 381,
+    "manager_id": "M-381",
+    "family_name": "Saucedo",
+    "given_name": "Ulises",
+    "female": 0,
+    "country_name": "Bolivia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ulises_Saucedo"
+  },
+  {
+    "key_id": 382,
+    "manager_id": "M-382",
+    "family_name": "Săvulescu",
+    "given_name": "Alexandru",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alexandru_S%C4%83vulescu_(footballer)"
+  },
+  {
+    "key_id": 383,
+    "manager_id": "M-383",
+    "family_name": "Scaloni",
+    "given_name": "Lionel",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Lionel_Scaloni"
+  },
+  {
+    "key_id": 384,
+    "manager_id": "M-384",
+    "family_name": "Schäfer",
+    "given_name": "Winfried",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Winfried_Sch%C3%A4fer"
+  },
+  {
+    "key_id": 385,
+    "manager_id": "M-385",
+    "family_name": "Schaffer",
+    "given_name": "Alfréd",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alfr%C3%A9d_Schaffer"
+  },
+  {
+    "key_id": 386,
+    "manager_id": "M-386",
+    "family_name": "Scheffer",
+    "given_name": "Emmanuel",
+    "female": 0,
+    "country_name": "Israel",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Emmanuel_Scheffer"
+  },
+  {
+    "key_id": 387,
+    "manager_id": "M-387",
+    "family_name": "Schmidt",
+    "given_name": "Georg",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Georg_Schmidt_(football_coach)"
+  },
+  {
+    "key_id": 388,
+    "manager_id": "M-388",
+    "family_name": "Schön",
+    "given_name": "Helmut",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Helmut_Sch%C3%B6n"
+  },
+  {
+    "key_id": 389,
+    "manager_id": "M-389",
+    "family_name": "Scolari",
+    "given_name": "Luiz Felipe",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luiz_Felipe_Scolari"
+  },
+  {
+    "key_id": 390,
+    "manager_id": "M-390",
+    "family_name": "Sebes",
+    "given_name": "Gusztáv",
+    "female": 0,
+    "country_name": "Hungary",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Guszt%C3%A1v_Sebes"
+  },
+  {
+    "key_id": 391,
+    "manager_id": "M-391",
+    "family_name": "Selmi",
+    "given_name": "Ali",
+    "female": 0,
+    "country_name": "Poland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ali_Selmi"
+  },
+  {
+    "key_id": 392,
+    "manager_id": "M-392",
+    "family_name": "Senekowitsch",
+    "given_name": "Helmut",
+    "female": 0,
+    "country_name": "Austria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Helmut_Senekowitsch"
+  },
+  {
+    "key_id": 393,
+    "manager_id": "M-393",
+    "family_name": "Sermanni",
+    "given_name": "Tom",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tom_Sermanni"
+  },
+  {
+    "key_id": 394,
+    "manager_id": "M-394",
+    "family_name": "Shang",
+    "given_name": "Ruihua",
+    "female": 0,
+    "country_name": "China",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Shang_Ruihua"
+  },
+  {
+    "key_id": 395,
+    "manager_id": "M-395",
+    "family_name": "Shin",
+    "given_name": "Tae-yong",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Shin_Tae-yong"
+  },
+  {
+    "key_id": 396,
+    "manager_id": "M-396",
+    "family_name": "Simões",
+    "given_name": "Renê",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ren%C3%AA_Sim%C3%B5es"
+  },
+  {
+    "key_id": 397,
+    "manager_id": "M-397",
+    "family_name": "Simonović",
+    "given_name": "Boško",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bo%C5%A1ko_Simonovi%C4%87"
+  },
+  {
+    "key_id": 398,
+    "manager_id": "M-398",
+    "family_name": "Simonsson",
+    "given_name": "Bengt",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bengt_Simonsson"
+  },
+  {
+    "key_id": 399,
+    "manager_id": "M-399",
+    "family_name": "Sjögren",
+    "given_name": "Martin",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Martin_Sj%C3%B6gren"
+  },
+  {
+    "key_id": 400,
+    "manager_id": "M-400",
+    "family_name": "Söderberg",
+    "given_name": "Tommy",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tommy_S%C3%B6derberg"
+  },
+  {
+    "key_id": 401,
+    "manager_id": "M-401",
+    "family_name": "Solari",
+    "given_name": "Jorge",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Solari"
+  },
+  {
+    "key_id": 402,
+    "manager_id": "M-402",
+    "family_name": "Song",
+    "given_name": "Rigobert",
+    "female": 0,
+    "country_name": "Cameroon",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rigobert_Song"
+  },
+  {
+    "key_id": 403,
+    "manager_id": "M-403",
+    "family_name": "Sono",
+    "given_name": "Jomo",
+    "female": 0,
+    "country_name": "South Africa",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jomo_Sono"
+  },
+  {
+    "key_id": 404,
+    "manager_id": "M-404",
+    "family_name": "Souayah",
+    "given_name": "Ammar",
+    "female": 0,
+    "country_name": "Tunisia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ammar_Souayah"
+  },
+  {
+    "key_id": 405,
+    "manager_id": "M-405",
+    "family_name": "Southgate",
+    "given_name": "Gareth",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Gareth_Southgate"
+  },
+  {
+    "key_id": 406,
+    "manager_id": "M-406",
+    "family_name": "Srathongvian",
+    "given_name": "Nuengrutai",
+    "female": 1,
+    "country_name": "Thailand",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Nuengrutai_Srathongvian"
+  },
+  {
+    "key_id": 407,
+    "manager_id": "M-407",
+    "family_name": "Stábile",
+    "given_name": "Guillermo",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Guillermo_St%C3%A1bile"
+  },
+  {
+    "key_id": 408,
+    "manager_id": "M-408",
+    "family_name": "Stajcic",
+    "given_name": "Alen",
+    "female": 0,
+    "country_name": "Australia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alen_Stajcic"
+  },
+  {
+    "key_id": 409,
+    "manager_id": "M-409",
+    "family_name": "Steen",
+    "given_name": "Åge",
+    "female": 0,
+    "country_name": "Norway",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%85ge_Steen"
+  },
+  {
+    "key_id": 410,
+    "manager_id": "M-410",
+    "family_name": "Stein",
+    "given_name": "Jock",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jock_Stein"
+  },
+  {
+    "key_id": 411,
+    "manager_id": "M-411",
+    "family_name": "Stojković",
+    "given_name": "Dragan",
+    "female": 0,
+    "country_name": "Serbia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87"
+  },
+  {
+    "key_id": 412,
+    "manager_id": "M-412",
+    "family_name": "Suárez",
+    "given_name": "Luis",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer,_born_1935)"
+  },
+  {
+    "key_id": 413,
+    "manager_id": "M-413",
+    "family_name": "Suárez",
+    "given_name": "Luis Fernando",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luis_Fernando_Su%C3%A1rez"
+  },
+  {
+    "key_id": 414,
+    "manager_id": "M-414",
+    "family_name": "Sundhage",
+    "given_name": "Pia",
+    "female": 1,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Pia_Sundhage"
+  },
+  {
+    "key_id": 415,
+    "manager_id": "M-415",
+    "family_name": "Suppici",
+    "given_name": "Alberto",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alberto_Suppici"
+  },
+  {
+    "key_id": 416,
+    "manager_id": "M-416",
+    "family_name": "Sušić",
+    "given_name": "Safet",
+    "female": 0,
+    "country_name": "Bosnia and Herzegovina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Safet_Su%C5%A1i%C4%87"
+  },
+  {
+    "key_id": 417,
+    "manager_id": "M-417",
+    "family_name": "Suzuki",
+    "given_name": "Tamotsu",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tamotsu_Suzuki"
+  },
+  {
+    "key_id": 418,
+    "manager_id": "M-418",
+    "family_name": "Svensson",
+    "given_name": "Tommy",
+    "female": 0,
+    "country_name": "Sweden",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tommy_Svensson"
+  },
+  {
+    "key_id": 419,
+    "manager_id": "M-419",
+    "family_name": "Tabárez",
+    "given_name": "Óscar",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/%C3%93scar_Tab%C3%A1rez"
+  },
+  {
+    "key_id": 420,
+    "manager_id": "M-420",
+    "family_name": "Taborda",
+    "given_name": "Fabián",
+    "female": 0,
+    "country_name": "Colombia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Taborda"
+  },
+  {
+    "key_id": 421,
+    "manager_id": "M-421",
+    "family_name": "Takakura",
+    "given_name": "Asako",
+    "female": 1,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Asako_Takakura"
+  },
+  {
+    "key_id": 422,
+    "manager_id": "M-422",
+    "family_name": "Talebi",
+    "given_name": "Jalal",
+    "female": 0,
+    "country_name": "Iran",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jalal_Talebi"
+  },
+  {
+    "key_id": 423,
+    "manager_id": "M-423",
+    "family_name": "Tapia",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Cuba",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Tapia"
+  },
+  {
+    "key_id": 424,
+    "manager_id": "M-424",
+    "family_name": "Tassy",
+    "given_name": "Antoine",
+    "female": 0,
+    "country_name": "Haiti",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Antoine_Tassy"
+  },
+  {
+    "key_id": 425,
+    "manager_id": "M-425",
+    "family_name": "Theune-Meyer",
+    "given_name": "Tina",
+    "female": 1,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tina_Theune"
+  },
+  {
+    "key_id": 426,
+    "manager_id": "M-426",
+    "family_name": "Thys",
+    "given_name": "Guy",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Guy_Thys"
+  },
+  {
+    "key_id": 427,
+    "manager_id": "M-427",
+    "family_name": "Tim",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tim_(footballer)"
+  },
+  {
+    "key_id": 428,
+    "manager_id": "M-428",
+    "family_name": "Tirnanić",
+    "given_name": "Aleksandar",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Aleksandar_Tirnani%C4%87"
+  },
+  {
+    "key_id": 429,
+    "manager_id": "M-429",
+    "family_name": "Tite",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tite_(football_manager)"
+  },
+  {
+    "key_id": 430,
+    "manager_id": "M-430",
+    "family_name": "Torres",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Portugal",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Augusto_Torres"
+  },
+  {
+    "key_id": 431,
+    "manager_id": "M-431",
+    "family_name": "Touré",
+    "given_name": "Clémentine",
+    "female": 1,
+    "country_name": "Ivory Coast",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Cl%C3%A9mentine_Tour%C3%A9"
+  },
+  {
+    "key_id": 432,
+    "manager_id": "M-432",
+    "family_name": "Tramutola",
+    "given_name": "Juan José",
+    "female": 0,
+    "country_name": "Argentina",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Tramutola"
+  },
+  {
+    "key_id": 433,
+    "manager_id": "M-433",
+    "family_name": "Trapattoni",
+    "given_name": "Giovanni",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Giovanni_Trapattoni"
+  },
+  {
+    "key_id": 434,
+    "manager_id": "M-434",
+    "family_name": "Tréllez",
+    "given_name": "Ignacio",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ignacio_Tr%C3%A9llez"
+  },
+  {
+    "key_id": 435,
+    "manager_id": "M-435",
+    "family_name": "Troussier",
+    "given_name": "Philippe",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Philippe_Troussier"
+  },
+  {
+    "key_id": 436,
+    "manager_id": "M-436",
+    "family_name": "Turnbull",
+    "given_name": "Neil",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Neil_Turnbull"
+  },
+  {
+    "key_id": 437,
+    "manager_id": "M-437",
+    "family_name": "Uche",
+    "given_name": "Ngozi Eucharia",
+    "female": 1,
+    "country_name": "Nigeria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ngozi_Eucharia_Uche"
+  },
+  {
+    "key_id": 438,
+    "manager_id": "M-438",
+    "family_name": "Ueda",
+    "given_name": "Eiji",
+    "female": 0,
+    "country_name": "Japan",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Eiji_Ueda"
+  },
+  {
+    "key_id": 439,
+    "manager_id": "M-439",
+    "family_name": "Uridil",
+    "given_name": "Josef",
+    "female": 0,
+    "country_name": "Romania",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Josef_Uridil"
+  },
+  {
+    "key_id": 440,
+    "manager_id": "M-440",
+    "family_name": "Vadão",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vad%C3%A3o"
+  },
+  {
+    "key_id": 441,
+    "manager_id": "M-441",
+    "family_name": "Valcareggi",
+    "given_name": "Ferruccio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ferruccio_Valcareggi"
+  },
+  {
+    "key_id": 442,
+    "manager_id": "M-442",
+    "family_name": "Valverde",
+    "given_name": "Amelia",
+    "female": 1,
+    "country_name": "Costa Rica",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Amelia_Valverde"
+  },
+  {
+    "key_id": 443,
+    "manager_id": "M-443",
+    "family_name": "van Basten",
+    "given_name": "Marco",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marco_van_Basten"
+  },
+  {
+    "key_id": 444,
+    "manager_id": "M-444",
+    "family_name": "van Gaal",
+    "given_name": "Louis",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Louis_van_Gaal"
+  },
+  {
+    "key_id": 445,
+    "manager_id": "M-445",
+    "family_name": "Van Himst",
+    "given_name": "Paul",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Paul_Van_Himst"
+  },
+  {
+    "key_id": 446,
+    "manager_id": "M-446",
+    "family_name": "van Marwijk",
+    "given_name": "Bert",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Bert_van_Marwijk"
+  },
+  {
+    "key_id": 447,
+    "manager_id": "M-447",
+    "family_name": "Vengloš",
+    "given_name": "Jozef",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jozef_Venglo%C5%A1"
+  },
+  {
+    "key_id": 448,
+    "manager_id": "M-448",
+    "family_name": "Verbeek",
+    "given_name": "Pim",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Pim_Verbeek"
+  },
+  {
+    "key_id": 449,
+    "manager_id": "M-449",
+    "family_name": "Vial",
+    "given_name": "Octavio",
+    "female": 0,
+    "country_name": "Mexico",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Octavio_Vial"
+  },
+  {
+    "key_id": 450,
+    "manager_id": "M-450",
+    "family_name": "Vicini",
+    "given_name": "Azeglio",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Azeglio_Vicini"
+  },
+  {
+    "key_id": 451,
+    "manager_id": "M-451",
+    "family_name": "Vidinić",
+    "given_name": "Blagoje",
+    "female": 0,
+    "country_name": "Yugoslavia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Blagoje_Vidini%C4%87"
+  },
+  {
+    "key_id": 452,
+    "manager_id": "M-452",
+    "family_name": "Viera",
+    "given_name": "Ondino",
+    "female": 0,
+    "country_name": "Uruguay",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ondino_Viera"
+  },
+  {
+    "key_id": 453,
+    "manager_id": "M-453",
+    "family_name": "Vilda",
+    "given_name": "Jorge",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Vilda"
+  },
+  {
+    "key_id": 454,
+    "manager_id": "M-454",
+    "family_name": "Villalonga",
+    "given_name": "José",
+    "female": 0,
+    "country_name": "Spain",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Villalonga_Llorente"
+  },
+  {
+    "key_id": 455,
+    "manager_id": "M-455",
+    "family_name": "Vincent",
+    "given_name": "Jean",
+    "female": 0,
+    "country_name": "France",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Jean_Vincent_(footballer)"
+  },
+  {
+    "key_id": 456,
+    "manager_id": "M-456",
+    "family_name": "Vinhaes",
+    "given_name": "Luiz",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Luiz_Vinhaes"
+  },
+  {
+    "key_id": 457,
+    "manager_id": "M-457",
+    "family_name": "Vogts",
+    "given_name": "Berti",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Berti_Vogts"
+  },
+  {
+    "key_id": 458,
+    "manager_id": "M-458",
+    "family_name": "Völler",
+    "given_name": "Rudi",
+    "female": 0,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rudi_V%C3%B6ller"
+  },
+  {
+    "key_id": 459,
+    "manager_id": "M-459",
+    "family_name": "Voss-Tecklenburg",
+    "given_name": "Martina",
+    "female": 1,
+    "country_name": "Germany",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Martina_Voss-Tecklenburg"
+  },
+  {
+    "key_id": 460,
+    "manager_id": "M-460",
+    "family_name": "Vutsov",
+    "given_name": "Ivan",
+    "female": 0,
+    "country_name": "Bulgaria",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Ivan_Vutsov"
+  },
+  {
+    "key_id": 461,
+    "manager_id": "M-461",
+    "family_name": "Vytlačil",
+    "given_name": "Rudolf",
+    "female": 0,
+    "country_name": "Czechoslovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Rudolf_Vytla%C4%8Dil"
+  },
+  {
+    "key_id": 462,
+    "manager_id": "M-462",
+    "family_name": "Waiters",
+    "given_name": "Tony",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Tony_Waiters"
+  },
+  {
+    "key_id": 463,
+    "manager_id": "M-463",
+    "family_name": "Walker",
+    "given_name": "Dawson",
+    "female": 0,
+    "country_name": "Scotland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Dawson_Walker"
+  },
+  {
+    "key_id": 464,
+    "manager_id": "M-464",
+    "family_name": "Waseige",
+    "given_name": "Robert",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Robert_Waseige"
+  },
+  {
+    "key_id": 465,
+    "manager_id": "M-465",
+    "family_name": "Weiss",
+    "given_name": "Vladimír",
+    "female": 0,
+    "country_name": "Slovakia",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Weiss_(footballer,_born_1964)"
+  },
+  {
+    "key_id": 466,
+    "manager_id": "M-466",
+    "family_name": "Westerhof",
+    "given_name": "Clemens",
+    "female": 0,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Clemens_Westerhof"
+  },
+  {
+    "key_id": 467,
+    "manager_id": "M-467",
+    "family_name": "Wiegman",
+    "given_name": "Sarina",
+    "female": 1,
+    "country_name": "Netherlands",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Sarina_Wiegman"
+  },
+  {
+    "key_id": 468,
+    "manager_id": "M-468",
+    "family_name": "Wilmots",
+    "given_name": "Marc",
+    "female": 0,
+    "country_name": "Belgium",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Marc_Wilmots"
+  },
+  {
+    "key_id": 469,
+    "manager_id": "M-469",
+    "family_name": "Wilsinho",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Wilsinho_(football_manager)"
+  },
+  {
+    "key_id": 470,
+    "manager_id": "M-470",
+    "family_name": "Winterbottom",
+    "given_name": "Walter",
+    "female": 0,
+    "country_name": "England",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Walter_Winterbottom"
+  },
+  {
+    "key_id": 471,
+    "manager_id": "M-471",
+    "family_name": "Yakin",
+    "given_name": "Murat",
+    "female": 0,
+    "country_name": "Switzerland",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Murat_Yakin"
+  },
+  {
+    "key_id": 472,
+    "manager_id": "M-472",
+    "family_name": "Yoon",
+    "given_name": "Deok-yeo",
+    "female": 0,
+    "country_name": "South Korea",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Yoon_Deok-yeo"
+  },
+  {
+    "key_id": 473,
+    "manager_id": "M-473",
+    "family_name": "Zaccheroni",
+    "given_name": "Alberto",
+    "female": 0,
+    "country_name": "Italy",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Alberto_Zaccheroni"
+  },
+  {
+    "key_id": 474,
+    "manager_id": "M-474",
+    "family_name": "Zagallo",
+    "given_name": "Mário",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/M%C3%A1rio_Zagallo"
+  },
+  {
+    "key_id": 475,
+    "manager_id": "M-475",
+    "family_name": "Zico",
+    "given_name": "not applicable",
+    "female": 0,
+    "country_name": "Brazil",
+    "manager_wikipedia_link": "https://en.wikipedia.org/wiki/Zico_(footballer)"
+  }
+]

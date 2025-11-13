@@ -1,0 +1,2402 @@
+[
+  {
+    "key_id": 1,
+    "stadium_id": "S-001",
+    "stadium_name": "Estadio José Amalfitani",
+    "city_name": "Buenos Aires",
+    "country_name": "Argentina",
+    "stadium_capacity": 49000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/José_Amalfitani_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires"
+  },
+  {
+    "key_id": 2,
+    "stadium_id": "S-002",
+    "stadium_name": "Estadio Monumental",
+    "city_name": "Buenos Aires",
+    "country_name": "Argentina",
+    "stadium_capacity": 75000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires"
+  },
+  {
+    "key_id": 3,
+    "stadium_id": "S-003",
+    "stadium_name": "Estadio Chateau Carreras",
+    "city_name": "Córdoba",
+    "country_name": "Argentina",
+    "stadium_capacity": 47000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Córdoba,_Argentina"
+  },
+  {
+    "key_id": 4,
+    "stadium_id": "S-004",
+    "stadium_name": "Estadio José María Minella",
+    "city_name": "Mar del Plata",
+    "country_name": "Argentina",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_José_Mar%C3%ADa_Minella",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Mar_del_Plata"
+  },
+  {
+    "key_id": 5,
+    "stadium_id": "S-005",
+    "stadium_name": "Estadio Ciudad de Mendoza",
+    "city_name": "Mendoza",
+    "country_name": "Argentina",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Malvinas_Argentinas",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza,_Argentina"
+  },
+  {
+    "key_id": 6,
+    "stadium_id": "S-006",
+    "stadium_name": "Estadio Gigante de Arroyito",
+    "city_name": "Rosario",
+    "country_name": "Argentina",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Gigante_de_Arroyito",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rosario,_Santa_Fe"
+  },
+  {
+    "key_id": 7,
+    "stadium_id": "S-007",
+    "stadium_name": "Estádio Independência",
+    "city_name": "Belo Horizonte",
+    "country_name": "Brazil",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_Independência",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Belo_Horizonte"
+  },
+  {
+    "key_id": 8,
+    "stadium_id": "S-008",
+    "stadium_name": "Estádio Mineirão",
+    "city_name": "Belo Horizonte",
+    "country_name": "Brazil",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mineirão",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Belo_Horizonte"
+  },
+  {
+    "key_id": 9,
+    "stadium_id": "S-009",
+    "stadium_name": "Estádio Nacional",
+    "city_name": "Brasília",
+    "country_name": "Brazil",
+    "stadium_capacity": 70000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_Nacional_Mané_Garrincha",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+  },
+  {
+    "key_id": 10,
+    "stadium_id": "S-010",
+    "stadium_name": "Arena Pantanal",
+    "city_name": "Cuiabá",
+    "country_name": "Brazil",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_Pantanal",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Cuiabá"
+  },
+  {
+    "key_id": 11,
+    "stadium_id": "S-011",
+    "stadium_name": "Arena da Baixada",
+    "city_name": "Curitiba",
+    "country_name": "Brazil",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_da_Baixada",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Curitiba"
+  },
+  {
+    "key_id": 12,
+    "stadium_id": "S-012",
+    "stadium_name": "Estádio Vila Capanema",
+    "city_name": "Curitiba",
+    "country_name": "Brazil",
+    "stadium_capacity": 10000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_Vila_Capanema",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Curitiba"
+  },
+  {
+    "key_id": 13,
+    "stadium_id": "S-013",
+    "stadium_name": "Estádio Castelão",
+    "city_name": "Fortaleza",
+    "country_name": "Brazil",
+    "stadium_capacity": 63000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Castelão_(Ceará)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Fortaleza"
+  },
+  {
+    "key_id": 14,
+    "stadium_id": "S-014",
+    "stadium_name": "Arena da Amazônia",
+    "city_name": "Manaus",
+    "country_name": "Brazil",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_da_Amazônia",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Manaus"
+  },
+  {
+    "key_id": 15,
+    "stadium_id": "S-015",
+    "stadium_name": "Arena das Dunas",
+    "city_name": "Natal",
+    "country_name": "Brazil",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_das_Dunas",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte"
+  },
+  {
+    "key_id": 16,
+    "stadium_id": "S-016",
+    "stadium_name": "Estádio Beira-Rio",
+    "city_name": "Porto Alegre",
+    "country_name": "Brazil",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_Beira-Rio",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Porto_Alegre"
+  },
+  {
+    "key_id": 17,
+    "stadium_id": "S-017",
+    "stadium_name": "Estádio dos Eucaliptos",
+    "city_name": "Porto Alegre",
+    "country_name": "Brazil",
+    "stadium_capacity": 20000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_dos_Eucaliptos",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Porto_Alegre"
+  },
+  {
+    "key_id": 18,
+    "stadium_id": "S-018",
+    "stadium_name": "Arena Pernambuco",
+    "city_name": "Recife",
+    "country_name": "Brazil",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_Pernambuco",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Recife"
+  },
+  {
+    "key_id": 19,
+    "stadium_id": "S-019",
+    "stadium_name": "Estádio Ilha do Retiro",
+    "city_name": "Recife",
+    "country_name": "Brazil",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estádio_Ilha_do_Retiro",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Recife"
+  },
+  {
+    "key_id": 20,
+    "stadium_id": "S-020",
+    "stadium_name": "Estádio do Maracanã",
+    "city_name": "Rio de Janeiro",
+    "country_name": "Brazil",
+    "stadium_capacity": 200000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Maracanã_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  },
+  {
+    "key_id": 21,
+    "stadium_id": "S-021",
+    "stadium_name": "Arena Fonte Nova",
+    "city_name": "Salvador",
+    "country_name": "Brazil",
+    "stadium_capacity": 52000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_Fonte_Nova",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Salvador,_Bahia"
+  },
+  {
+    "key_id": 22,
+    "stadium_id": "S-022",
+    "stadium_name": "Arena Corinthians",
+    "city_name": "São Paulo",
+    "country_name": "Brazil",
+    "stadium_capacity": 63000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_Corinthians",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo"
+  },
+  {
+    "key_id": 23,
+    "stadium_id": "S-023",
+    "stadium_name": "Estádio do Pacaembu",
+    "city_name": "São Paulo",
+    "country_name": "Brazil",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Pacaembu_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo"
+  },
+  {
+    "key_id": 24,
+    "stadium_id": "S-024",
+    "stadium_name": "Commonwealth Stadium",
+    "city_name": "Edmonton",
+    "country_name": "Canada",
+    "stadium_capacity": 56000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Commonwealth_Stadium_(Edmonton)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Edmonton"
+  },
+  {
+    "key_id": 25,
+    "stadium_id": "S-025",
+    "stadium_name": "Moncton Stadium",
+    "city_name": "Moncton",
+    "country_name": "Canada",
+    "stadium_capacity": 13000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Moncton_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Moncton"
+  },
+  {
+    "key_id": 26,
+    "stadium_id": "S-026",
+    "stadium_name": "Olympic Stadium",
+    "city_name": "Montreal",
+    "country_name": "Canada",
+    "stadium_capacity": 56000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Montreal"
+  },
+  {
+    "key_id": 27,
+    "stadium_id": "S-027",
+    "stadium_name": "TD Place Stadium",
+    "city_name": "Ottawa",
+    "country_name": "Canada",
+    "stadium_capacity": 24000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/TD_Place_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Ottawa"
+  },
+  {
+    "key_id": 28,
+    "stadium_id": "S-028",
+    "stadium_name": "BC Place",
+    "city_name": "Vancouver",
+    "country_name": "Canada",
+    "stadium_capacity": 54000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/BC_Place",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Vancouver"
+  },
+  {
+    "key_id": 29,
+    "stadium_id": "S-029",
+    "stadium_name": "Investors Group Field",
+    "city_name": "Winnipeg",
+    "country_name": "Canada",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Investors_Group_Field",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Winnipeg"
+  },
+  {
+    "key_id": 30,
+    "stadium_id": "S-030",
+    "stadium_name": "Estadio Carlos Dittborn",
+    "city_name": "Arica",
+    "country_name": "Chile",
+    "stadium_capacity": 18000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Carlos_Dittborn",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Arica"
+  },
+  {
+    "key_id": 31,
+    "stadium_id": "S-031",
+    "stadium_name": "Estadio El Teniente",
+    "city_name": "Rancagua",
+    "country_name": "Chile",
+    "stadium_capacity": 18000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_El_Teniente",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rancagua"
+  },
+  {
+    "key_id": 32,
+    "stadium_id": "S-032",
+    "stadium_name": "Estadio Nacional",
+    "city_name": "Santiago",
+    "country_name": "Chile",
+    "stadium_capacity": 67000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Prádanos",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Santiago"
+  },
+  {
+    "key_id": 33,
+    "stadium_id": "S-033",
+    "stadium_name": "Estadio Sausalito",
+    "city_name": "Viña del Mar",
+    "country_name": "Chile",
+    "stadium_capacity": 18000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Sausalito",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Viña_del_Mar"
+  },
+  {
+    "key_id": 34,
+    "stadium_id": "S-034",
+    "stadium_name": "Chengdu Sports Center",
+    "city_name": "Chengdu",
+    "country_name": "China",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Chengdu_Sports_Centre",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Chengdu"
+  },
+  {
+    "key_id": 35,
+    "stadium_id": "S-035",
+    "stadium_name": "New Plaza Stadium",
+    "city_name": "Foshan",
+    "country_name": "China",
+    "stadium_capacity": 14000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/New_Plaza_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Foshan"
+  },
+  {
+    "key_id": 36,
+    "stadium_id": "S-036",
+    "stadium_name": "Gaungdong Provincial Stadium",
+    "city_name": "Guangzhou",
+    "country_name": "China",
+    "stadium_capacity": 25000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Guangdong_Provincial_People's_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guangzhou"
+  },
+  {
+    "key_id": 37,
+    "stadium_id": "S-037",
+    "stadium_name": "Guangdong Provincial Stadium",
+    "city_name": "Guangzhou",
+    "country_name": "China",
+    "stadium_capacity": 25000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Guangdong_Provincial_People's_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guangzhou"
+  },
+  {
+    "key_id": 38,
+    "stadium_id": "S-038",
+    "stadium_name": "Tainhe Stadium",
+    "city_name": "Guangzhou",
+    "country_name": "China",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Tianhe_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guangzhou"
+  },
+  {
+    "key_id": 39,
+    "stadium_id": "S-039",
+    "stadium_name": "Tianhe Stadium",
+    "city_name": "Guangzhou",
+    "country_name": "China",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Tianhe_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guangzhou"
+  },
+  {
+    "key_id": 40,
+    "stadium_id": "S-040",
+    "stadium_name": "Ying Tung Stadium",
+    "city_name": "Guangzhou",
+    "country_name": "China",
+    "stadium_capacity": 15000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Henry_Fok_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guangzhou"
+  },
+  {
+    "key_id": 41,
+    "stadium_id": "S-041",
+    "stadium_name": "Yellow Dragon Sports Center",
+    "city_name": "Hangzhou",
+    "country_name": "China",
+    "stadium_capacity": 51000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Yellow_Dragon_Sports_Center",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Hangzhou"
+  },
+  {
+    "key_id": 42,
+    "stadium_id": "S-042",
+    "stadium_name": "Jiangmen Stadium",
+    "city_name": "Jiangmen",
+    "country_name": "China",
+    "stadium_capacity": 13000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Jiangmen_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Jiangmen"
+  },
+  {
+    "key_id": 43,
+    "stadium_id": "S-043",
+    "stadium_name": "Hongkou Football Stadium",
+    "city_name": "Shanghai",
+    "country_name": "China",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Hongkou_Football_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Shanghai"
+  },
+  {
+    "key_id": 44,
+    "stadium_id": "S-044",
+    "stadium_name": "Tianjin Olympic Center",
+    "city_name": "Tianjin",
+    "country_name": "China",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Tianjin_Olympic_Center",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Tianjin"
+  },
+  {
+    "key_id": 45,
+    "stadium_id": "S-045",
+    "stadium_name": "Wuhan Sports Center",
+    "city_name": "Wuhan",
+    "country_name": "China",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Wuhan_Sports_Center",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Wuhan"
+  },
+  {
+    "key_id": 46,
+    "stadium_id": "S-046",
+    "stadium_name": "Zhongshan Stadium",
+    "city_name": "Zhongshan",
+    "country_name": "China",
+    "stadium_capacity": 12000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Zhongshan_Sports_Center_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Zhongshan"
+  },
+  {
+    "key_id": 47,
+    "stadium_id": "S-047",
+    "stadium_name": "Villa Park",
+    "city_name": "Birmingham",
+    "country_name": "England",
+    "stadium_capacity": 52000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Villa_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Birmingham"
+  },
+  {
+    "key_id": 48,
+    "stadium_id": "S-048",
+    "stadium_name": "Goodison Park",
+    "city_name": "Liverpool",
+    "country_name": "England",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Goodison_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  {
+    "key_id": 49,
+    "stadium_id": "S-049",
+    "stadium_name": "Wembley Stadium",
+    "city_name": "London",
+    "country_name": "England",
+    "stadium_capacity": 99000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Wembley_Stadium_(1923)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/London"
+  },
+  {
+    "key_id": 50,
+    "stadium_id": "S-050",
+    "stadium_name": "White City Stadium",
+    "city_name": "London",
+    "country_name": "England",
+    "stadium_capacity": 77000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/White_City_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/London"
+  },
+  {
+    "key_id": 51,
+    "stadium_id": "S-051",
+    "stadium_name": "Old Trafford",
+    "city_name": "Manchester",
+    "country_name": "England",
+    "stadium_capacity": 58000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Old_Trafford",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  {
+    "key_id": 52,
+    "stadium_id": "S-052",
+    "stadium_name": "Ayresome Park",
+    "city_name": "Middlesbrough",
+    "country_name": "England",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ayresome_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Middlesbrough"
+  },
+  {
+    "key_id": 53,
+    "stadium_id": "S-053",
+    "stadium_name": "Hillsborough Stadium",
+    "city_name": "Sheffield",
+    "country_name": "England",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Hillsborough_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sheffield"
+  },
+  {
+    "key_id": 54,
+    "stadium_id": "S-054",
+    "stadium_name": "Roker Park",
+    "city_name": "Sunderland",
+    "country_name": "England",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Roker_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sunderland"
+  },
+  {
+    "key_id": 55,
+    "stadium_id": "S-055",
+    "stadium_name": "Stade du Fort Carré",
+    "city_name": "Antibes",
+    "country_name": "France",
+    "stadium_capacity": 7000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_du_Fort_Carré",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Antibes"
+  },
+  {
+    "key_id": 56,
+    "stadium_id": "S-056",
+    "stadium_name": "Stade du Parc Lescure",
+    "city_name": "Bordeaux",
+    "country_name": "France",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Chaban-Delmas",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bordeaux"
+  },
+  {
+    "key_id": 57,
+    "stadium_id": "S-057",
+    "stadium_name": "Stade des Alpes",
+    "city_name": "Grenoble",
+    "country_name": "France",
+    "stadium_capacity": 18000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_des_Alpes",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Grenoble"
+  },
+  {
+    "key_id": 58,
+    "stadium_id": "S-058",
+    "stadium_name": "Stade Jules Deschaseaux",
+    "city_name": "Le Havre",
+    "country_name": "France",
+    "stadium_capacity": 22000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Jules_Deschaseaux",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Le_Havre"
+  },
+  {
+    "key_id": 59,
+    "stadium_id": "S-059",
+    "stadium_name": "Stade Océane",
+    "city_name": "Le Havre",
+    "country_name": "France",
+    "stadium_capacity": 24000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Océane",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Le_Havre"
+  },
+  {
+    "key_id": 60,
+    "stadium_id": "S-060",
+    "stadium_name": "Stade Félix-Bollaert",
+    "city_name": "Lens",
+    "country_name": "France",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lens,_Pas-de-Calais"
+  },
+  {
+    "key_id": 61,
+    "stadium_id": "S-061",
+    "stadium_name": "Stade Victor Boucquey",
+    "city_name": "Lille",
+    "country_name": "France",
+    "stadium_capacity": 15000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Henri-Jooris",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lille"
+  },
+  {
+    "key_id": 62,
+    "stadium_id": "S-062",
+    "stadium_name": "Parc Olympique Lyonnais",
+    "city_name": "Lyon",
+    "country_name": "France",
+    "stadium_capacity": 58000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Parc_Olympique_Lyonnais",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lyon"
+  },
+  {
+    "key_id": 63,
+    "stadium_id": "S-063",
+    "stadium_name": "Stade de Gerland",
+    "city_name": "Lyon",
+    "country_name": "France",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_de_Gerland",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lyon"
+  },
+  {
+    "key_id": 64,
+    "stadium_id": "S-064",
+    "stadium_name": "Stade Vélodrome",
+    "city_name": "Marseille",
+    "country_name": "France",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Vélodrome",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Marseille"
+  },
+  {
+    "key_id": 65,
+    "stadium_id": "S-065",
+    "stadium_name": "Stade de la Mosson",
+    "city_name": "Montpellier",
+    "country_name": "France",
+    "stadium_capacity": 34000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_de_la_Mosson",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Montpellier"
+  },
+  {
+    "key_id": 66,
+    "stadium_id": "S-066",
+    "stadium_name": "Stade de la Beaujoire",
+    "city_name": "Nantes",
+    "country_name": "France",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_de_la_Beaujoire",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Nantes"
+  },
+  {
+    "key_id": 67,
+    "stadium_id": "S-067",
+    "stadium_name": "Allianz Riviera",
+    "city_name": "Nice",
+    "country_name": "France",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Allianz_Riviera",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Nice"
+  },
+  {
+    "key_id": 68,
+    "stadium_id": "S-068",
+    "stadium_name": "Parc des Princes",
+    "city_name": "Paris",
+    "country_name": "France",
+    "stadium_capacity": 49000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Parc_des_Princes",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Paris"
+  },
+  {
+    "key_id": 69,
+    "stadium_id": "S-069",
+    "stadium_name": "Stade Olympique de Colombes",
+    "city_name": "Paris",
+    "country_name": "France",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Olympique_Yves-du-Manoir",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Paris"
+  },
+  {
+    "key_id": 70,
+    "stadium_id": "S-070",
+    "stadium_name": "Stade Auguste-Delaune",
+    "city_name": "Reims",
+    "country_name": "France",
+    "stadium_capacity": 21000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Auguste-Delaune",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Reims"
+  },
+  {
+    "key_id": 71,
+    "stadium_id": "S-071",
+    "stadium_name": "Vélodrome Municipal",
+    "city_name": "Reims",
+    "country_name": "France",
+    "stadium_capacity": 22000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Auguste_Delaune",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Reims"
+  },
+  {
+    "key_id": 72,
+    "stadium_id": "S-072",
+    "stadium_name": "Roazhon Park",
+    "city_name": "Rennes",
+    "country_name": "France",
+    "stadium_capacity": 29000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Roazhon_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rennes"
+  },
+  {
+    "key_id": 73,
+    "stadium_id": "S-073",
+    "stadium_name": "Stade de France",
+    "city_name": "Saint-Denis",
+    "country_name": "France",
+    "stadium_capacity": 80000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_de_France",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Denis,_Seine-Saint-Denis"
+  },
+  {
+    "key_id": 74,
+    "stadium_id": "S-074",
+    "stadium_name": "Stade Geoffroy-Guichard",
+    "city_name": "Saint-Étienne",
+    "country_name": "France",
+    "stadium_capacity": 36000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Étienne"
+  },
+  {
+    "key_id": 75,
+    "stadium_id": "S-075",
+    "stadium_name": "Stade de la Meinau",
+    "city_name": "Strasbourg",
+    "country_name": "France",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_de_la_Meinau",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Strasbourg"
+  },
+  {
+    "key_id": 76,
+    "stadium_id": "S-076",
+    "stadium_name": "Stade de Toulouse",
+    "city_name": "Toulouse",
+    "country_name": "France",
+    "stadium_capacity": 37000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadium_Municipal",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Toulouse"
+  },
+  {
+    "key_id": 77,
+    "stadium_id": "S-077",
+    "stadium_name": "Stade du T.O.E.C.",
+    "city_name": "Toulouse",
+    "country_name": "France",
+    "stadium_capacity": 15000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Chapou",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Toulouse"
+  },
+  {
+    "key_id": 78,
+    "stadium_id": "S-078",
+    "stadium_name": "Stade du Hainaut",
+    "city_name": "Valenciennes",
+    "country_name": "France",
+    "stadium_capacity": 23000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_du_Hainaut",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Valenciennes"
+  },
+  {
+    "key_id": 79,
+    "stadium_id": "S-079",
+    "stadium_name": "Impuls Arena",
+    "city_name": "Augsburg",
+    "country_name": "Germany",
+    "stadium_capacity": 25000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Impuls_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Augsburg"
+  },
+  {
+    "key_id": 80,
+    "stadium_id": "S-080",
+    "stadium_name": "Olympiastadion",
+    "city_name": "Berlin",
+    "country_name": "Germany",
+    "stadium_capacity": 86000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Berlin"
+  },
+  {
+    "key_id": 81,
+    "stadium_id": "S-081",
+    "stadium_name": "Ruhrstadion",
+    "city_name": "Bochum",
+    "country_name": "Germany",
+    "stadium_capacity": 21000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ruhrstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bochum"
+  },
+  {
+    "key_id": 82,
+    "stadium_id": "S-082",
+    "stadium_name": "RheinEnergieStadion",
+    "city_name": "Cologne",
+    "country_name": "Germany",
+    "stadium_capacity": 45000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/RheinEnergieStadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Cologne"
+  },
+  {
+    "key_id": 83,
+    "stadium_id": "S-083",
+    "stadium_name": "Westfalenstadion",
+    "city_name": "Dortmund",
+    "country_name": "Germany",
+    "stadium_capacity": 65000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Westfalenstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Dortmund"
+  },
+  {
+    "key_id": 84,
+    "stadium_id": "S-084",
+    "stadium_name": "Rudolf-Harbig-Stadion",
+    "city_name": "Dresden",
+    "country_name": "Germany",
+    "stadium_capacity": 26000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rudolf-Harbig-Stadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Dresden"
+  },
+  {
+    "key_id": 85,
+    "stadium_id": "S-085",
+    "stadium_name": "Rheinstadion",
+    "city_name": "Düsseldorf",
+    "country_name": "Germany",
+    "stadium_capacity": 70000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rheinstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Düsseldorf"
+  },
+  {
+    "key_id": 86,
+    "stadium_id": "S-086",
+    "stadium_name": "Waldstadion",
+    "city_name": "Frankfurt",
+    "country_name": "Germany",
+    "stadium_capacity": 62000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Frankfurt"
+  },
+  {
+    "key_id": 87,
+    "stadium_id": "S-087",
+    "stadium_name": "Arena AufShalke",
+    "city_name": "Gelsenkirchen",
+    "country_name": "Germany",
+    "stadium_capacity": 52000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gelsenkirchen"
+  },
+  {
+    "key_id": 88,
+    "stadium_id": "S-088",
+    "stadium_name": "Parkstadion",
+    "city_name": "Gelsenkirchen",
+    "country_name": "Germany",
+    "stadium_capacity": 72000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Parkstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gelsenkirchen"
+  },
+  {
+    "key_id": 89,
+    "stadium_id": "S-089",
+    "stadium_name": "Volksparkstadion",
+    "city_name": "Hamburg",
+    "country_name": "Germany",
+    "stadium_capacity": 61000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Volksparkstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Hamburg"
+  },
+  {
+    "key_id": 90,
+    "stadium_id": "S-090",
+    "stadium_name": "Niedersachsenstadion",
+    "city_name": "Hanover",
+    "country_name": "Germany",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Niedersachsenstadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Hanover"
+  },
+  {
+    "key_id": 91,
+    "stadium_id": "S-091",
+    "stadium_name": "Fritz-Walter-Stadion",
+    "city_name": "Kaiserslautern",
+    "country_name": "Germany",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Fritz-Walter-Stadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Kaiserslautern"
+  },
+  {
+    "key_id": 92,
+    "stadium_id": "S-092",
+    "stadium_name": "Zentralstadion",
+    "city_name": "Leipzig",
+    "country_name": "Germany",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Leipzig"
+  },
+  {
+    "key_id": 93,
+    "stadium_id": "S-093",
+    "stadium_name": "BayArena",
+    "city_name": "Leverkusen",
+    "country_name": "Germany",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/BayArena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Leverkusen"
+  },
+  {
+    "key_id": 94,
+    "stadium_id": "S-094",
+    "stadium_name": "Borussia-Park",
+    "city_name": "Mönchengladbach",
+    "country_name": "Germany",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Borussia-Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Mönchengladbach"
+  },
+  {
+    "key_id": 95,
+    "stadium_id": "S-095",
+    "stadium_name": "Allianz Arena",
+    "city_name": "Munich",
+    "country_name": "Germany",
+    "stadium_capacity": 66000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Allianz_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Munich"
+  },
+  {
+    "key_id": 96,
+    "stadium_id": "S-096",
+    "stadium_name": "Olympiastadion",
+    "city_name": "Munich",
+    "country_name": "Germany",
+    "stadium_capacity": 78000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Olympiastadion_(Munich)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Munich"
+  },
+  {
+    "key_id": 97,
+    "stadium_id": "S-097",
+    "stadium_name": "Frankenstadion",
+    "city_name": "Nuremberg",
+    "country_name": "Germany",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Nuremberg",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Nuremberg"
+  },
+  {
+    "key_id": 98,
+    "stadium_id": "S-098",
+    "stadium_name": "Rhein-Neckar-Arena",
+    "city_name": "Sinsheim",
+    "country_name": "Germany",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rhein-Neckar-Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sinsheim"
+  },
+  {
+    "key_id": 99,
+    "stadium_id": "S-099",
+    "stadium_name": "Neckarstadion",
+    "city_name": "Stuttgart",
+    "country_name": "Germany",
+    "stadium_capacity": 72000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Stuttgart"
+  },
+  {
+    "key_id": 100,
+    "stadium_id": "S-100",
+    "stadium_name": "Volkswagen Arena",
+    "city_name": "Wolfsburg",
+    "country_name": "Germany",
+    "stadium_capacity": 26000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Volkswagen_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Wolfsburg"
+  },
+  {
+    "key_id": 101,
+    "stadium_id": "S-101",
+    "stadium_name": "Stadio San Nicola",
+    "city_name": "Bari",
+    "country_name": "Italy",
+    "stadium_capacity": 51000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_San_Nicola",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bari"
+  },
+  {
+    "key_id": 102,
+    "stadium_id": "S-102",
+    "stadium_name": "Stadio Renato Dall'Ara",
+    "city_name": "Bologna",
+    "country_name": "Italy",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bologna"
+  },
+  {
+    "key_id": 103,
+    "stadium_id": "S-103",
+    "stadium_name": "Stadio Sant'Elia",
+    "city_name": "Cagliari",
+    "country_name": "Italy",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Sant%27Elia",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Cagliari"
+  },
+  {
+    "key_id": 104,
+    "stadium_id": "S-104",
+    "stadium_name": "Stadio Comunale",
+    "city_name": "Florence",
+    "country_name": "Italy",
+    "stadium_capacity": 39000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Florence"
+  },
+  {
+    "key_id": 105,
+    "stadium_id": "S-105",
+    "stadium_name": "Stadio Giovanni Berta",
+    "city_name": "Florence",
+    "country_name": "Italy",
+    "stadium_capacity": 47000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi_(Florence)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Florence"
+  },
+  {
+    "key_id": 106,
+    "stadium_id": "S-106",
+    "stadium_name": "Stadio Luigi Ferraris",
+    "city_name": "Genoa",
+    "country_name": "Italy",
+    "stadium_capacity": 37000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Genoa"
+  },
+  {
+    "key_id": 107,
+    "stadium_id": "S-107",
+    "stadium_name": "San Siro",
+    "city_name": "Milan",
+    "country_name": "Italy",
+    "stadium_capacity": 75000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/San_Siro",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Milan"
+  },
+  {
+    "key_id": 108,
+    "stadium_id": "S-108",
+    "stadium_name": "Stadio Giorgio Ascarelli",
+    "city_name": "Naples",
+    "country_name": "Italy",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Giorgio_Ascarelli",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Naples"
+  },
+  {
+    "key_id": 109,
+    "stadium_id": "S-109",
+    "stadium_name": "Stadio San Paolo",
+    "city_name": "Naples",
+    "country_name": "Italy",
+    "stadium_capacity": 60000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_San_Paolo",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Naples"
+  },
+  {
+    "key_id": 110,
+    "stadium_id": "S-110",
+    "stadium_name": "Stadio La Favorita",
+    "city_name": "Palermo",
+    "country_name": "Italy",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Palermo"
+  },
+  {
+    "key_id": 111,
+    "stadium_id": "S-111",
+    "stadium_name": "Stadio Nazionale PNF",
+    "city_name": "Rome",
+    "country_name": "Italy",
+    "stadium_capacity": 47000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Nazionale_PNF",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rome"
+  },
+  {
+    "key_id": 112,
+    "stadium_id": "S-112",
+    "stadium_name": "Stadio Olimpico",
+    "city_name": "Rome",
+    "country_name": "Italy",
+    "stadium_capacity": 74000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Olimpico",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rome"
+  },
+  {
+    "key_id": 113,
+    "stadium_id": "S-113",
+    "stadium_name": "Stadio Littorio",
+    "city_name": "Trieste",
+    "country_name": "Italy",
+    "stadium_capacity": 8000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Giuseppe_Grezar",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Trieste"
+  },
+  {
+    "key_id": 114,
+    "stadium_id": "S-114",
+    "stadium_name": "Stadio Benito Mussolini",
+    "city_name": "Turin",
+    "country_name": "Italy",
+    "stadium_capacity": 28000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Turin"
+  },
+  {
+    "key_id": 115,
+    "stadium_id": "S-115",
+    "stadium_name": "Stadio delle Alpi",
+    "city_name": "Turin",
+    "country_name": "Italy",
+    "stadium_capacity": 63000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_delle_Alpi",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Turin"
+  },
+  {
+    "key_id": 116,
+    "stadium_id": "S-116",
+    "stadium_name": "Stadio Friuli",
+    "city_name": "Udine",
+    "country_name": "Italy",
+    "stadium_capacity": 36000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Friuli",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Udine"
+  },
+  {
+    "key_id": 117,
+    "stadium_id": "S-117",
+    "stadium_name": "Stadio Marc'Antonio Bentegodi",
+    "city_name": "Verona",
+    "country_name": "Italy",
+    "stadium_capacity": 36000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadio_Marc%27Antonio_Bentegodi",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Verona"
+  },
+  {
+    "key_id": 118,
+    "stadium_id": "S-118",
+    "stadium_name": "Kashima Stadium",
+    "city_name": "Ibaraki",
+    "country_name": "Japan",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Kashima_Soccer_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Kashima,_Ibaraki"
+  },
+  {
+    "key_id": 119,
+    "stadium_id": "S-119",
+    "stadium_name": "Kobe Wing Stadium",
+    "city_name": "Kobe",
+    "country_name": "Japan",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Kobe_Wing_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Kobe"
+  },
+  {
+    "key_id": 120,
+    "stadium_id": "S-120",
+    "stadium_name": "Miyagi Stadium",
+    "city_name": "Miyagi",
+    "country_name": "Japan",
+    "stadium_capacity": 49000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Miyagi_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Miyagi_Prefecture"
+  },
+  {
+    "key_id": 121,
+    "stadium_id": "S-121",
+    "stadium_name": "Niigata Stadium",
+    "city_name": "Niigata",
+    "country_name": "Japan",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Denka_Big_Swan_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Niigata,_Niigata"
+  },
+  {
+    "key_id": 122,
+    "stadium_id": "S-122",
+    "stadium_name": "Ōita Stadium",
+    "city_name": "Ōita",
+    "country_name": "Japan",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Showa_Denko_Dome_Oita",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Ōita,_Ōita"
+  },
+  {
+    "key_id": 123,
+    "stadium_id": "S-123",
+    "stadium_name": "Nagai Stadium",
+    "city_name": "Osaka",
+    "country_name": "Japan",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Nagai_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Osaka"
+  },
+  {
+    "key_id": 124,
+    "stadium_id": "S-124",
+    "stadium_name": "Saitama Stadium",
+    "city_name": "Saitama",
+    "country_name": "Japan",
+    "stadium_capacity": 63000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Saitama_Stadium_2002",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Saitama,_Saitama"
+  },
+  {
+    "key_id": 125,
+    "stadium_id": "S-125",
+    "stadium_name": "Sapporo Dome",
+    "city_name": "Sapporo",
+    "country_name": "Japan",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Sapporo_Dome",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sapporo"
+  },
+  {
+    "key_id": 126,
+    "stadium_id": "S-126",
+    "stadium_name": "Shizuoka Stadium ECOPA",
+    "city_name": "Shizuoka",
+    "country_name": "Japan",
+    "stadium_capacity": 51000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Shizuoka_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Fukuroi,_Shizuoka"
+  },
+  {
+    "key_id": 127,
+    "stadium_id": "S-127",
+    "stadium_name": "International Stadium Yokohama",
+    "city_name": "Yokohama",
+    "country_name": "Japan",
+    "stadium_capacity": 72000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/International_Stadium_Yokohama",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Yokohama"
+  },
+  {
+    "key_id": 128,
+    "stadium_id": "S-128",
+    "stadium_name": "Estadio Jalisco",
+    "city_name": "Guadalajara",
+    "country_name": "Mexico",
+    "stadium_capacity": 71000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Jalisco",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guadalajara"
+  },
+  {
+    "key_id": 129,
+    "stadium_id": "S-129",
+    "stadium_name": "Estadio Tres de Marzo",
+    "city_name": "Guadalajara",
+    "country_name": "Mexico",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Tres_de_Marzo",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Guadalajara"
+  },
+  {
+    "key_id": 130,
+    "stadium_id": "S-130",
+    "stadium_name": "Estadio Sergio León Chavez",
+    "city_name": "Irapuato",
+    "country_name": "Mexico",
+    "stadium_capacity": 31000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Sergio_León_Chávez",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Irapuato"
+  },
+  {
+    "key_id": 131,
+    "stadium_id": "S-131",
+    "stadium_name": "Estadio Nou Camp",
+    "city_name": "León",
+    "country_name": "Mexico",
+    "stadium_capacity": 31000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Nou_Camp",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/León,_Guanajuato"
+  },
+  {
+    "key_id": 132,
+    "stadium_id": "S-132",
+    "stadium_name": "Estadio Azteca",
+    "city_name": "Mexico City",
+    "country_name": "Mexico",
+    "stadium_capacity": 115000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Azteca",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Mexico_City"
+  },
+  {
+    "key_id": 133,
+    "stadium_id": "S-133",
+    "stadium_name": "Estadio Olímpico Universitario",
+    "city_name": "Mexico City",
+    "country_name": "Mexico",
+    "stadium_capacity": 72000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Mexico_City"
+  },
+  {
+    "key_id": 134,
+    "stadium_id": "S-134",
+    "stadium_name": "Estadio Tecnológico",
+    "city_name": "Monterrey",
+    "country_name": "Mexico",
+    "stadium_capacity": 34000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Tecnológico",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Monterrey"
+  },
+  {
+    "key_id": 135,
+    "stadium_id": "S-135",
+    "stadium_name": "Estadio Universitario",
+    "city_name": "Monterrey",
+    "country_name": "Mexico",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Monterrey"
+  },
+  {
+    "key_id": 136,
+    "stadium_id": "S-136",
+    "stadium_name": "Estadio Neza 86",
+    "city_name": "Nezahualcóyotl",
+    "country_name": "Mexico",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Neza_86",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Ciudad_Nezahualcóyotl"
+  },
+  {
+    "key_id": 137,
+    "stadium_id": "S-137",
+    "stadium_name": "Estadio Cuauhtémoc",
+    "city_name": "Puebla",
+    "country_name": "Mexico",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Cuauhtémoc",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Puebla_City"
+  },
+  {
+    "key_id": 138,
+    "stadium_id": "S-138",
+    "stadium_name": "Estadio La Corregidora",
+    "city_name": "Querétaro",
+    "country_name": "Mexico",
+    "stadium_capacity": 39000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_La_Corregidora",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_de_Querétaro"
+  },
+  {
+    "key_id": 139,
+    "stadium_id": "S-139",
+    "stadium_name": "La Bombonera",
+    "city_name": "Toluca",
+    "country_name": "Mexico",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Toluca"
+  },
+  {
+    "key_id": 140,
+    "stadium_id": "S-140",
+    "stadium_name": "Al Bayt Stadium",
+    "city_name": "Al Khor",
+    "country_name": "Qatar",
+    "stadium_capacity": 69000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Bayt_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Khor_(city)"
+  },
+  {
+    "key_id": 141,
+    "stadium_id": "S-141",
+    "stadium_name": "Ahmad bin Ali Stadium",
+    "city_name": "Al Rayyan",
+    "country_name": "Qatar",
+    "stadium_capacity": 45000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)"
+  },
+  {
+    "key_id": 142,
+    "stadium_id": "S-142",
+    "stadium_name": "Education City Stadium",
+    "city_name": "Al Rayyan",
+    "country_name": "Qatar",
+    "stadium_capacity": 45000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Education_City_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)"
+  },
+  {
+    "key_id": 143,
+    "stadium_id": "S-143",
+    "stadium_name": "Khalifa International Stadium",
+    "city_name": "Al Rayyan",
+    "country_name": "Qatar",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Khalifa_International_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)"
+  },
+  {
+    "key_id": 144,
+    "stadium_id": "S-144",
+    "stadium_name": "Al Janoub Stadium",
+    "city_name": "Al Wakrah",
+    "country_name": "Qatar",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Janoub_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Wakrah"
+  },
+  {
+    "key_id": 145,
+    "stadium_id": "S-145",
+    "stadium_name": "Al Thumama Stadium",
+    "city_name": "Doha",
+    "country_name": "Qatar",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Al_Thumama_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Doha"
+  },
+  {
+    "key_id": 146,
+    "stadium_id": "S-146",
+    "stadium_name": "Stadium 974",
+    "city_name": "Doha",
+    "country_name": "Qatar",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stadium_974",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Doha"
+  },
+  {
+    "key_id": 147,
+    "stadium_id": "S-147",
+    "stadium_name": "Lusail Stadium",
+    "city_name": "Lusail",
+    "country_name": "Qatar",
+    "stadium_capacity": 89000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Lusail_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lusail"
+  },
+  {
+    "key_id": 148,
+    "stadium_id": "S-148",
+    "stadium_name": "Kaliningrad Stadium",
+    "city_name": "Kaliningrad",
+    "country_name": "Russia",
+    "stadium_capacity": 34000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Kaliningrad_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Kaliningrad"
+  },
+  {
+    "key_id": 149,
+    "stadium_id": "S-149",
+    "stadium_name": "Kazan Arena",
+    "city_name": "Kazan",
+    "country_name": "Russia",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Kazan_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Kazan_Arena"
+  },
+  {
+    "key_id": 150,
+    "stadium_id": "S-150",
+    "stadium_name": "Luzhniki Stadium",
+    "city_name": "Moscow",
+    "country_name": "Russia",
+    "stadium_capacity": 78000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Luzhniki_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Moscow"
+  },
+  {
+    "key_id": 151,
+    "stadium_id": "S-151",
+    "stadium_name": "Otkritie Arena",
+    "city_name": "Moscow",
+    "country_name": "Russia",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Otkritie_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Moscow"
+  },
+  {
+    "key_id": 152,
+    "stadium_id": "S-152",
+    "stadium_name": "Nizhny Novgorod Stadium",
+    "city_name": "Nizhny Novgorod",
+    "country_name": "Russia",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Nizhny_Novgorod"
+  },
+  {
+    "key_id": 153,
+    "stadium_id": "S-153",
+    "stadium_name": "Rostov Arena",
+    "city_name": "Rostov-on-Don",
+    "country_name": "Russia",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rostov-on-Don"
+  },
+  {
+    "key_id": 154,
+    "stadium_id": "S-154",
+    "stadium_name": "Krestovsky Stadium",
+    "city_name": "Saint Petersburg",
+    "country_name": "Russia",
+    "stadium_capacity": 64000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Krestovsky_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Petersburg"
+  },
+  {
+    "key_id": 155,
+    "stadium_id": "S-155",
+    "stadium_name": "Samara Arena",
+    "city_name": "Samara",
+    "country_name": "Russia",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Samara_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Samara"
+  },
+  {
+    "key_id": 156,
+    "stadium_id": "S-156",
+    "stadium_name": "Mordovia Arena",
+    "city_name": "Saransk",
+    "country_name": "Russia",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mordovia_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Saransk"
+  },
+  {
+    "key_id": 157,
+    "stadium_id": "S-157",
+    "stadium_name": "Fisht Olympic Stadium",
+    "city_name": "Sochi",
+    "country_name": "Russia",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sochi"
+  },
+  {
+    "key_id": 158,
+    "stadium_id": "S-158",
+    "stadium_name": "Volgograd Arena",
+    "city_name": "Volgograd",
+    "country_name": "Russia",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Volgograd_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Volgograd"
+  },
+  {
+    "key_id": 159,
+    "stadium_id": "S-159",
+    "stadium_name": "Central Stadium",
+    "city_name": "Yekaterinburg",
+    "country_name": "Russia",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Yekaterinburg"
+  },
+  {
+    "key_id": 160,
+    "stadium_id": "S-160",
+    "stadium_name": "Free State Stadium",
+    "city_name": "Bloemfontein",
+    "country_name": "South Africa",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bloemfontein"
+  },
+  {
+    "key_id": 161,
+    "stadium_id": "S-161",
+    "stadium_name": "Cape Town Stadium",
+    "city_name": "Cape Town",
+    "country_name": "South Africa",
+    "stadium_capacity": 64000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Town_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Town"
+  },
+  {
+    "key_id": 162,
+    "stadium_id": "S-162",
+    "stadium_name": "Moses Mabhida Stadium",
+    "city_name": "Durban",
+    "country_name": "South Africa",
+    "stadium_capacity": 63000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Durban"
+  },
+  {
+    "key_id": 163,
+    "stadium_id": "S-163",
+    "stadium_name": "Ellis Park Stadium",
+    "city_name": "Johannesburg",
+    "country_name": "South Africa",
+    "stadium_capacity": 56000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ellis_Park_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Johannesburg"
+  },
+  {
+    "key_id": 164,
+    "stadium_id": "S-164",
+    "stadium_name": "Soccer City",
+    "city_name": "Johannesburg",
+    "country_name": "South Africa",
+    "stadium_capacity": 84000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/FNB_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Johannesburg"
+  },
+  {
+    "key_id": 165,
+    "stadium_id": "S-165",
+    "stadium_name": "Mbombela Stadium",
+    "city_name": "Nelspruit",
+    "country_name": "South Africa",
+    "stadium_capacity": 41000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mbombela_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Nelspruit"
+  },
+  {
+    "key_id": 166,
+    "stadium_id": "S-166",
+    "stadium_name": "Peter Mokaba Stadium",
+    "city_name": "Polokwane",
+    "country_name": "South Africa",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Polokwane"
+  },
+  {
+    "key_id": 167,
+    "stadium_id": "S-167",
+    "stadium_name": "Nelson Mandela Bay Stadium",
+    "city_name": "Port Elizabeth",
+    "country_name": "South Africa",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Port_Elizabeth"
+  },
+  {
+    "key_id": 168,
+    "stadium_id": "S-168",
+    "stadium_name": "Loftus Versfeld Stadium",
+    "city_name": "Pretoria",
+    "country_name": "South Africa",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Pretoria"
+  },
+  {
+    "key_id": 169,
+    "stadium_id": "S-169",
+    "stadium_name": "Royal Bafokeng Stadium",
+    "city_name": "Rustenburg",
+    "country_name": "South Africa",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Rustenburg"
+  },
+  {
+    "key_id": 170,
+    "stadium_id": "S-170",
+    "stadium_name": "Busan Asiad Stadium",
+    "city_name": "Busan",
+    "country_name": "South Korea",
+    "stadium_capacity": 56000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Busan_Asiad_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Busan"
+  },
+  {
+    "key_id": 171,
+    "stadium_id": "S-171",
+    "stadium_name": "Daegu World Cup Stadium",
+    "city_name": "Daegu",
+    "country_name": "South Korea",
+    "stadium_capacity": 68000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Daegu_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Daegu"
+  },
+  {
+    "key_id": 172,
+    "stadium_id": "S-172",
+    "stadium_name": "Daejeon World Cup Stadium",
+    "city_name": "Daejeon",
+    "country_name": "South Korea",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Daejeon_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Daejeon"
+  },
+  {
+    "key_id": 173,
+    "stadium_id": "S-173",
+    "stadium_name": "Gwangju World Cup Stadium",
+    "city_name": "Gwangju",
+    "country_name": "South Korea",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Gwangju_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gwangju"
+  },
+  {
+    "key_id": 174,
+    "stadium_id": "S-174",
+    "stadium_name": "Incheon Munhak Stadium",
+    "city_name": "Incheon",
+    "country_name": "South Korea",
+    "stadium_capacity": 52000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Incheon_Munhak_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Incheon"
+  },
+  {
+    "key_id": 175,
+    "stadium_id": "S-175",
+    "stadium_name": "Jeonju World Cup Stadium",
+    "city_name": "Jeonju",
+    "country_name": "South Korea",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Jeonju_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Jeonju"
+  },
+  {
+    "key_id": 176,
+    "stadium_id": "S-176",
+    "stadium_name": "Jeju World Cup Stadium",
+    "city_name": "Seogwipo",
+    "country_name": "South Korea",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Jeju_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Seogwipo"
+  },
+  {
+    "key_id": 177,
+    "stadium_id": "S-177",
+    "stadium_name": "Seoul World Cup Stadium",
+    "city_name": "Seoul",
+    "country_name": "South Korea",
+    "stadium_capacity": 64000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Seoul"
+  },
+  {
+    "key_id": 178,
+    "stadium_id": "S-178",
+    "stadium_name": "Suwon World Cup Stadium",
+    "city_name": "Suwon",
+    "country_name": "South Korea",
+    "stadium_capacity": 43000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Suwon_World_Cup_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Suwon"
+  },
+  {
+    "key_id": 179,
+    "stadium_id": "S-179",
+    "stadium_name": "Ulsan Munsu Football Stadium",
+    "city_name": "Ulsan",
+    "country_name": "South Korea",
+    "stadium_capacity": 44000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Ulsan"
+  },
+  {
+    "key_id": 180,
+    "stadium_id": "S-180",
+    "stadium_name": "Estadio Riazor",
+    "city_name": "A Coruña",
+    "country_name": "Spain",
+    "stadium_capacity": 34000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Riazor",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/A_Coruña"
+  },
+  {
+    "key_id": 181,
+    "stadium_id": "S-181",
+    "stadium_name": "Estadio José Rico Pérez",
+    "city_name": "Alicante",
+    "country_name": "Spain",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_José_Rico_Pérez",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Alicante"
+  },
+  {
+    "key_id": 182,
+    "stadium_id": "S-182",
+    "stadium_name": "Camp Nou",
+    "city_name": "Barcelona",
+    "country_name": "Spain",
+    "stadium_capacity": 121000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Nou",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Barcelona"
+  },
+  {
+    "key_id": 183,
+    "stadium_id": "S-183",
+    "stadium_name": "Estadi de Sarrià",
+    "city_name": "Barcelona",
+    "country_name": "Spain",
+    "stadium_capacity": 40000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Sarrià_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Barcelona"
+  },
+  {
+    "key_id": 184,
+    "stadium_id": "S-184",
+    "stadium_name": "Estadio San Mamés",
+    "city_name": "Bilbao",
+    "country_name": "Spain",
+    "stadium_capacity": 46000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/San_Mamés_Stadium_(1913)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bilbao"
+  },
+  {
+    "key_id": 185,
+    "stadium_id": "S-185",
+    "stadium_name": "Nuevo Estadio",
+    "city_name": "Elche",
+    "country_name": "Spain",
+    "stadium_capacity": 53000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Manuel_Mart%C3%ADnez_Valero",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Elche"
+  },
+  {
+    "key_id": 186,
+    "stadium_id": "S-186",
+    "stadium_name": "Estadio El Molinón",
+    "city_name": "Gijón",
+    "country_name": "Spain",
+    "stadium_capacity": 45000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/El_Molinón",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gijón"
+  },
+  {
+    "key_id": 187,
+    "stadium_id": "S-187",
+    "stadium_name": "Estadio Santiago Bernabéu",
+    "city_name": "Madrid",
+    "country_name": "Spain",
+    "stadium_capacity": 90000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Bernabéu_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Madrid"
+  },
+  {
+    "key_id": 188,
+    "stadium_id": "S-188",
+    "stadium_name": "Vicente Calderón",
+    "city_name": "Madrid",
+    "country_name": "Spain",
+    "stadium_capacity": 66000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Vicente_Calderón_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Madrid"
+  },
+  {
+    "key_id": 189,
+    "stadium_id": "S-189",
+    "stadium_name": "Estadio La Rosaleda",
+    "city_name": "Málaga",
+    "country_name": "Spain",
+    "stadium_capacity": 45000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_La_Rosaleda",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Málaga"
+  },
+  {
+    "key_id": 190,
+    "stadium_id": "S-190",
+    "stadium_name": "Estadio Carlos Tartiere",
+    "city_name": "Oviedo",
+    "country_name": "Spain",
+    "stadium_capacity": 24000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere_(1932)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Oviedo"
+  },
+  {
+    "key_id": 191,
+    "stadium_id": "S-191",
+    "stadium_name": "Estadio Benito Villamarín",
+    "city_name": "Seville",
+    "country_name": "Spain",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Seville"
+  },
+  {
+    "key_id": 192,
+    "stadium_id": "S-192",
+    "stadium_name": "Estadio Ramón Sánchez Pizjuán",
+    "city_name": "Seville",
+    "country_name": "Spain",
+    "stadium_capacity": 68000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ramón_Sánchez_Pizjuán_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Seville"
+  },
+  {
+    "key_id": 193,
+    "stadium_id": "S-193",
+    "stadium_name": "Estadio Luis Casanova",
+    "city_name": "Valencia",
+    "country_name": "Spain",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mestalla_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Valencia"
+  },
+  {
+    "key_id": 194,
+    "stadium_id": "S-194",
+    "stadium_name": "Estadio José Zorrilla",
+    "city_name": "Valladolid",
+    "country_name": "Spain",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_José_Zorrilla",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Valladolid"
+  },
+  {
+    "key_id": 195,
+    "stadium_id": "S-195",
+    "stadium_name": "Balaídos",
+    "city_name": "Vigo",
+    "country_name": "Spain",
+    "stadium_capacity": 33000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Bala%C3%ADdos",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Vigo"
+  },
+  {
+    "key_id": 196,
+    "stadium_id": "S-196",
+    "stadium_name": "Estadio La Romareda",
+    "city_name": "Zaragoza",
+    "country_name": "Spain",
+    "stadium_capacity": 42000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/La_Romareda",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Zaragoza"
+  },
+  {
+    "key_id": 197,
+    "stadium_id": "S-197",
+    "stadium_name": "Ryavallen",
+    "city_name": "Borås",
+    "country_name": "Sweden",
+    "stadium_capacity": 15000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ryavallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Borås"
+  },
+  {
+    "key_id": 198,
+    "stadium_id": "S-198",
+    "stadium_name": "Tunavallen",
+    "city_name": "Eskilstuna",
+    "country_name": "Sweden",
+    "stadium_capacity": 22000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Tunavallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Eskilstuna"
+  },
+  {
+    "key_id": 199,
+    "stadium_id": "S-199",
+    "stadium_name": "Strömvallen",
+    "city_name": "Gävle",
+    "country_name": "Sweden",
+    "stadium_capacity": 7000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Strömvallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gävle"
+  },
+  {
+    "key_id": 200,
+    "stadium_id": "S-200",
+    "stadium_name": "Ullevi",
+    "city_name": "Gothenburg",
+    "country_name": "Sweden",
+    "stadium_capacity": 54000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Ullevi",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Gothenburg"
+  },
+  {
+    "key_id": 201,
+    "stadium_id": "S-201",
+    "stadium_name": "Örjans Vall",
+    "city_name": "Halmstad",
+    "country_name": "Sweden",
+    "stadium_capacity": 15000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Örjans_Vall",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Halmstad"
+  },
+  {
+    "key_id": 202,
+    "stadium_id": "S-202",
+    "stadium_name": "Olympia",
+    "city_name": "Helsingborg",
+    "country_name": "Sweden",
+    "stadium_capacity": 27000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Helsingborg"
+  },
+  {
+    "key_id": 203,
+    "stadium_id": "S-203",
+    "stadium_name": "Tingvalla IP",
+    "city_name": "Karlstad",
+    "country_name": "Sweden",
+    "stadium_capacity": 5000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Tingvalla_IP",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Karlstad"
+  },
+  {
+    "key_id": 204,
+    "stadium_id": "S-204",
+    "stadium_name": "Malmö Stadion",
+    "city_name": "Malmö",
+    "country_name": "Sweden",
+    "stadium_capacity": 30000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Malmö_Stadion",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Malmö"
+  },
+  {
+    "key_id": 205,
+    "stadium_id": "S-205",
+    "stadium_name": "Idrottsparken",
+    "city_name": "Norrköping",
+    "country_name": "Sweden",
+    "stadium_capacity": 20000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Nya_Parken",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Norrköping"
+  },
+  {
+    "key_id": 206,
+    "stadium_id": "S-206",
+    "stadium_name": "Eyravallen",
+    "city_name": "Örebro",
+    "country_name": "Sweden",
+    "stadium_capacity": 13000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Behrn_Arena",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Örebro"
+  },
+  {
+    "key_id": 207,
+    "stadium_id": "S-207",
+    "stadium_name": "Jernvallen",
+    "city_name": "Sandviken",
+    "country_name": "Sweden",
+    "stadium_capacity": 20000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Jernvallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Sandviken"
+  },
+  {
+    "key_id": 208,
+    "stadium_id": "S-208",
+    "stadium_name": "Råsunda Stadium",
+    "city_name": "Solna",
+    "country_name": "Sweden",
+    "stadium_capacity": 52000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Råsunda_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Solna_Municipality"
+  },
+  {
+    "key_id": 209,
+    "stadium_id": "S-209",
+    "stadium_name": "Rimnersvallen",
+    "city_name": "Uddevalla",
+    "country_name": "Sweden",
+    "stadium_capacity": 18000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rimnersvallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Uddevalla"
+  },
+  {
+    "key_id": 210,
+    "stadium_id": "S-210",
+    "stadium_name": "Arosvallen",
+    "city_name": "Västerås",
+    "country_name": "Sweden",
+    "stadium_capacity": 10000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Arosvallen",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Västerås"
+  },
+  {
+    "key_id": 211,
+    "stadium_id": "S-211",
+    "stadium_name": "St. Jakob Stadium",
+    "city_name": "Basel",
+    "country_name": "Switzerland",
+    "stadium_capacity": 55000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/St._Jakob_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Basel"
+  },
+  {
+    "key_id": 212,
+    "stadium_id": "S-212",
+    "stadium_name": "Wankdorf Stadium",
+    "city_name": "Bern",
+    "country_name": "Switzerland",
+    "stadium_capacity": 65000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Wankdorf_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Bern"
+  },
+  {
+    "key_id": 213,
+    "stadium_id": "S-213",
+    "stadium_name": "Charmilles Stadium",
+    "city_name": "Geneva",
+    "country_name": "Switzerland",
+    "stadium_capacity": 36000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Charmilles_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Geneva"
+  },
+  {
+    "key_id": 214,
+    "stadium_id": "S-214",
+    "stadium_name": "Stade Olympique de la Pontaise",
+    "city_name": "Lausanne",
+    "country_name": "Switzerland",
+    "stadium_capacity": 50000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stade_Olympique_de_la_Pontaise",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lausanne"
+  },
+  {
+    "key_id": 215,
+    "stadium_id": "S-215",
+    "stadium_name": "Cornaredo Stadium",
+    "city_name": "Lugano",
+    "country_name": "Switzerland",
+    "stadium_capacity": 36000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Cornaredo_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Lugano"
+  },
+  {
+    "key_id": 216,
+    "stadium_id": "S-216",
+    "stadium_name": "Hardturm Stadium",
+    "city_name": "Zürich",
+    "country_name": "Switzerland",
+    "stadium_capacity": 35000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Hardturm",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Zürich"
+  },
+  {
+    "key_id": 217,
+    "stadium_id": "S-217",
+    "stadium_name": "Foxboro Stadium",
+    "city_name": "Boston",
+    "country_name": "United States",
+    "stadium_capacity": 59000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Foxboro_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Boston"
+  },
+  {
+    "key_id": 218,
+    "stadium_id": "S-218",
+    "stadium_name": "Home Depot Center",
+    "city_name": "Carson",
+    "country_name": "United States",
+    "stadium_capacity": 28000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Dignity_Health_Sports_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Carson,_California"
+  },
+  {
+    "key_id": 219,
+    "stadium_id": "S-219",
+    "stadium_name": "Soldier Field",
+    "city_name": "Chicago",
+    "country_name": "United States",
+    "stadium_capacity": 65000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Soldier_Field",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  {
+    "key_id": 220,
+    "stadium_id": "S-220",
+    "stadium_name": "Columbus Crew Stadium",
+    "city_name": "Columbus",
+    "country_name": "United States",
+    "stadium_capacity": 23000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Mapfre_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Columbus,_Ohio"
+  },
+  {
+    "key_id": 221,
+    "stadium_id": "S-221",
+    "stadium_name": "Cotton Bowl",
+    "city_name": "Dallas",
+    "country_name": "United States",
+    "stadium_capacity": 64000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Cotton_Bowl_(stadium)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Dallas"
+  },
+  {
+    "key_id": 222,
+    "stadium_id": "S-222",
+    "stadium_name": "Giants Stadium",
+    "city_name": "East Rutherford",
+    "country_name": "United States",
+    "stadium_capacity": 76000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Giants_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey"
+  },
+  {
+    "key_id": 223,
+    "stadium_id": "S-223",
+    "stadium_name": "Foxboro Stadium",
+    "city_name": "Foxborough",
+    "country_name": "United States",
+    "stadium_capacity": 54000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Foxboro_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Foxboro_Stadium"
+  },
+  {
+    "key_id": 224,
+    "stadium_id": "S-224",
+    "stadium_name": "Gillette Stadium",
+    "city_name": "Foxborough",
+    "country_name": "United States",
+    "stadium_capacity": 68000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Gillette_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Foxborough,_Massachusetts"
+  },
+  {
+    "key_id": 225,
+    "stadium_id": "S-225",
+    "stadium_name": "Rose Bowl",
+    "city_name": "Los Angeles",
+    "country_name": "United States",
+    "stadium_capacity": 96000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rose_Bowl_(stadium)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  {
+    "key_id": 226,
+    "stadium_id": "S-226",
+    "stadium_name": "Giants Stadium",
+    "city_name": "New York City",
+    "country_name": "United States",
+    "stadium_capacity": 78000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Giants_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  {
+    "key_id": 227,
+    "stadium_id": "S-227",
+    "stadium_name": "Citrus Bowl",
+    "city_name": "Orlando",
+    "country_name": "United States",
+    "stadium_capacity": 62000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Citrus_Bowl_(stadium)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Orlando,_Florida"
+  },
+  {
+    "key_id": 228,
+    "stadium_id": "S-228",
+    "stadium_name": "Rose Bowl",
+    "city_name": "Pasadena",
+    "country_name": "United States",
+    "stadium_capacity": 94000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Rose_Bowl_(stadium)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Pasadena,_California"
+  },
+  {
+    "key_id": 229,
+    "stadium_id": "S-229",
+    "stadium_name": "Lincoln Financial Field",
+    "city_name": "Philadelphia",
+    "country_name": "United States",
+    "stadium_capacity": 70000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_Financial_Field",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Philadelphia"
+  },
+  {
+    "key_id": 230,
+    "stadium_id": "S-230",
+    "stadium_name": "Pontiac Silverdome",
+    "city_name": "Pontiac",
+    "country_name": "United States",
+    "stadium_capacity": 78000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Pontiac_Silverdome",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Pontiac,_Michigan"
+  },
+  {
+    "key_id": 231,
+    "stadium_id": "S-231",
+    "stadium_name": "Civic Stadium",
+    "city_name": "Portland",
+    "country_name": "United States",
+    "stadium_capacity": 27000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Civic_Stadium_(Portland,_Oregon)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Portland,_Oregon"
+  },
+  {
+    "key_id": 232,
+    "stadium_id": "S-232",
+    "stadium_name": "PGE Park",
+    "city_name": "Portland",
+    "country_name": "United States",
+    "stadium_capacity": 28000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Providence_Park",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Portland,_Oregon"
+  },
+  {
+    "key_id": 233,
+    "stadium_id": "S-233",
+    "stadium_name": "Stanford Stadium",
+    "city_name": "San Fransisco",
+    "country_name": "United States",
+    "stadium_capacity": 85000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stanford_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/San_Francisco"
+  },
+  {
+    "key_id": 234,
+    "stadium_id": "S-234",
+    "stadium_name": "Spartan Stadium",
+    "city_name": "San Jose",
+    "country_name": "United States",
+    "stadium_capacity": 26000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Spartan_Stadium_(San_Jose)",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/San_Jose,_California"
+  },
+  {
+    "key_id": 235,
+    "stadium_id": "S-235",
+    "stadium_name": "Stanford Stadium",
+    "city_name": "Stanford",
+    "country_name": "United States",
+    "stadium_capacity": 84000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Stanford_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Stanford,_California"
+  },
+  {
+    "key_id": 236,
+    "stadium_id": "S-236",
+    "stadium_name": "Jack Kent Cooke Stadium",
+    "city_name": "Washington, D.C.",
+    "country_name": "United States",
+    "stadium_capacity": 80000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Kent_Cooke_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Washington,_D.C."
+  },
+  {
+    "key_id": 237,
+    "stadium_id": "S-237",
+    "stadium_name": "RFK Stadium",
+    "city_name": "Washington, D.C.",
+    "country_name": "United States",
+    "stadium_capacity": 53000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Memorial_Stadium",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Washington,_D.C."
+  },
+  {
+    "key_id": 238,
+    "stadium_id": "S-238",
+    "stadium_name": "Estadio Centenario",
+    "city_name": "Montevideo",
+    "country_name": "Uruguay",
+    "stadium_capacity": 90000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Centenario",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Montevideo"
+  },
+  {
+    "key_id": 239,
+    "stadium_id": "S-239",
+    "stadium_name": "Estadio Gran Parque Central",
+    "city_name": "Montevideo",
+    "country_name": "Uruguay",
+    "stadium_capacity": 20000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Gran_Parque_Central",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Montevideo"
+  },
+  {
+    "key_id": 240,
+    "stadium_id": "S-240",
+    "stadium_name": "Estadio Pocitos",
+    "city_name": "Montevideo",
+    "country_name": "Uruguay",
+    "stadium_capacity": 10000,
+    "stadium_wikipedia_link": "https://en.wikipedia.org/wiki/Estadio_Pocitos",
+    "city_wikipedia_link": "https://en.wikipedia.org/wiki/Montevideo"
+  }
+]
