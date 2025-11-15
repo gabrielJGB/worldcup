@@ -1,8 +1,14 @@
 import fs from 'fs';
+import path from "path";
+import { fileURLToPath } from "url";
 
 export default function handler(req, res) {
 
-    const routes = JSON.parse(fs.readFileSync("./routes.json", "utf8"));
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = path.dirname(__filename);
+  const filePath = path.join(__dirname, "routes.json");
+
+  const routes = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
