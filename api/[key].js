@@ -2,22 +2,22 @@ import fs from 'fs';
 import path from 'path';
 
 export default function handler(req, res) {
-  const { key } = req.query; // ejemplo: /api/players → key = "players"
 
-  console.log(key);
-  
+  const { all, key } = req.query; // ejemplo: /api/players  key = "players"
+
   try {
-    // 📄 Ruta al archivo JSON correspondiente
-    const filePath = path.join(process.cwd(), 'data', `${key}.json`);
 
-    // 📚 Leer y parsear el archivo
+    const filePath = path.join(process.cwd(), 'data', `${key}.json`);
     const jsonData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-    // 🧩 Obtener las claves del primer objeto (para generar los filtros)
-    const sample = jsonData[0] || {};
+    if (all !== undefined && all !== '' && all === "true")
+      return res.status(200).json(jsonData)
+
+
+    const sample = jsonData[1] || {};
     const availableKeys = Object.keys(sample);
 
-    // 🧠 Crear objeto con los filtros válidos del query
+
     const filters = Object.fromEntries(
       Object.entries(req.query).filter(
         ([k, v]) =>
@@ -25,20 +25,24 @@ export default function handler(req, res) {
       )
     );
 
-    // 💬 Si no se pasaron filtros → mostrar ayuda
+
     if (Object.keys(filters).length === 0) {
       return res.status(200).json({
-        message: 'Usá parámetros de consulta para filtrar resultados.',
+        message: 'Usá parámetros de consulta para filtrar resultados. Para devolver todos los datos, agrega el filtro ?all=true',
         example: `/api/${key}?${availableKeys[0]}=valor`,
         available_filters: availableKeys,
       });
     }
 
-    // 🔍 Filtrado (coincidencia parcial e insensible a mayúsculas)
+
     const filteredData = jsonData.filter((item) =>
       Object.entries(filters).every(([k, v]) => {
         const itemVal = String(item[k] ?? '').toLowerCase();
         const filterVal = String(v).toLowerCase();
+
+        if (k.includes("id") || k.includes("number"))
+          return itemVal === filterVal;
+
         return itemVal.includes(filterVal);
       })
     );

@@ -1,34 +1,21 @@
+import fs from 'fs';
+
 export default function handler(req, res) {
 
-    const routes = ["award_winners",
-        "awards",
-        "bookings",
-        "confederations",
-        "goals",
-        "group_standings",
-        "groups",
-        "host_countries",
-        "manager_appearances",
-        "manager_appointments",
-        "managers",
-        "matches",
-        "penalty_kicks",
-        "player_appearances",
-        "players",
-        "qualified_teams",
-        "referee_appearances",
-        "referee_appointments",
-        "referees",
-        "squads",
-        "stadiums",
-        "substitutions",
-        "team_appearances",
-        "teams",
-        "tournament_stages",
-        "tournament_standings"]
+    const routes = JSON.parse(fs.readFileSync("./routes.json", "utf8"));
+
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+    res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
+
+    if (req.method === "OPTIONS") {
+        res.status(200).end();
+        return;
+    }
 
     res.status(200).json({
-        message: "Bienvenido a mi API sobre la Copa Mundial de Futbol. Las rutas disponibles son las siguientes:",
-        routes:routes.map(route=>("/api/"+route))
+        message: "Welcome to my FIFA World Cup API",
+        routes: routes.map(route => route)
     });
 }
