@@ -1,14 +1,14 @@
 [
   {
-    "route": "/api/tournament",
-    "title": { "es": "Torneo", "en": "Tournament" },
+    "route": "tournaments",
+    "title": { "es": "Torneos", "en": "Tournaments" },
     "description": {
       "es": "Las fechas de inicio y fin del torneo, y la información sobre el formato del torneo.",
       "en": "The start and end dates of the tournament, and information about the tournament format."
     }
   },
   {
-    "route": "/api/confederations",
+    "route": "confederations",
     "title": { "es": "Confederaciones", "en": "Confederations" },
     "description": {
       "es": "Todas las confederaciones de la FIFA. Hay una observación por confederación.",
@@ -16,7 +16,7 @@
     }
   },
   {
-    "route": "/api/teams",
+    "route": "teams",
     "title": { "es": "Equipos", "en": "Teams" },
     "description": {
       "es": "Todos los equipos que participaron en un partido de la Copa del Mundo e incluye el código ISO de 3 letras, la federación nacional y la confederación correspondiente.",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "route": "/api/players",
+    "route": "players",
     "title": { "es": "Jugadores", "en": "Players" },
     "description": {
       "es": "Todos los jugadores que participaron en un partido de la Copa del Mundo, incluyendo suplentes; contiene nombre, fecha de nacimiento y enlace a Wikipedia si existe, pero no incluye el equipo porque algunos jugadores representaron distintos países.",
@@ -32,7 +32,7 @@
     }
   },
   {
-    "route": "/api/managers",
+    "route": "managers",
     "title": { "es": "Entrenadores", "en": "Managers" },
     "description": {
       "es": "Todos los entrenadores que participaron en un partido de la Copa del Mundo, incluyendo su nombre, país de origen y enlace a Wikipedia si existe.",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "route": "/api/referees",
+    "route": "referees",
     "title": { "es": "Árbitros", "en": "Referees" },
     "description": {
       "es": "Todos los árbitros que participaron en un partido de la Copa del Mundo, incluyendo nombre, país de origen, confederación y enlace a Wikipedia si existe.",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "route": "/api/stadiums",
+    "route": "stadiums",
     "title": { "es": "Estadios", "en": "Stadiums" },
     "description": {
       "es": "Todos los estadios sede de partidos de la Copa del Mundo, incluyendo país, ciudad, capacidad aproximada y enlaces a las páginas de Wikipedia del estadio y la ciudad.",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "route": "/api/matches",
+    "route": "matches",
     "title": { "es": "Partidos", "en": "Matches" },
     "description": {
       "es": "Todos los partidos de la Copa del Mundo, incluyendo equipos, fecha, país, ciudad, estadio, resultado final, diferencia de gol, si hubo tiempo extra o penales, cantidad de penales convertidos, resultado del partido y ganador si corresponde.",
@@ -64,7 +64,7 @@
     }
   },
   {
-    "route": "/api/awards",
+    "route": "awards",
     "title": { "es": "Premios", "en": "Awards" },
     "description": {
       "es": "Todos los premios individuales entregados a jugadores, incluyendo nombre del premio, año de introducción y una descripción del mismo.",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "route": "/api/qualified_teams",
+    "route": "qualified_teams",
     "title": { "es": "Equipos Clasificados", "en": "Qualified Teams" },
     "description": {
       "es": "Todos los equipos clasificados, incluyendo el torneo, el equipo y la instancia más lejana que alcanzó.",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "route": "/api/squads",
+    "route": "squads",
     "title": { "es": "Planteles", "en": "Squads" },
     "description": {
       "es": "La composición de cada plantel, incluyendo la posición y número de camiseta de cada jugador.",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "route": "/api/manager_appointments",
+    "route": "manager_appointments",
     "title": { "es": "Nombramientos de Entrenadores", "en": "Manager Appointments" },
     "description": {
       "es": "Todos los nombramientos de entrenadores, pudiendo incluir equipos con co-entrenadores.",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "route": "/api/referee_appointments",
+    "route": "referee_appointments",
     "title": { "es": "Nombramientos Arbitrales", "en": "Referee Appointments" },
     "description": {
       "es": "Todos los nombramientos arbitrales e incluye solo al árbitro principal.",
@@ -104,7 +104,7 @@
     }
   },
   {
-    "route": "/api/team_appearances",
+    "route": "team_appearances",
     "title": { "es": "Apariciones de Equipos", "en": "Team Appearances" },
     "description": {
       "es": "Todas las apariciones de equipos, indicando si fue local o visitante, goles a favor y en contra, diferencia, penales y si ganó, perdió o empató.",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "route": "/api/player_appearances",
+    "route": "player_appearances",
     "title": { "es": "Apariciones de Jugadores", "en": "Player Appearances" },
     "description": {
       "es": "Todas las apariciones de jugadores desde 1970, incluyendo titulares y suplentes que ingresan, sin información de sustituciones antes de 1970.",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "route": "/api/manager_appearances",
+    "route": "manager_appearances",
     "title": { "es": "Apariciones de Entrenadores", "en": "Manager Appearances" },
     "description": {
       "es": "Todas las apariciones de entrenadores e incluye casos de equipos con co-entrenadores.",
@@ -128,7 +128,7 @@
     }
   },
   {
-    "route": "/api/referee_appearances",
+    "route": "referee_appearances",
     "title": { "es": "Apariciones de Árbitros", "en": "Referee Appearances" },
     "description": {
       "es": "Todas las apariciones arbitrales por partido y torneo.",
@@ -136,7 +136,7 @@
     }
   },
   {
-    "route": "/api/goals",
+    "route": "goals",
     "title": { "es": "Goles", "en": "Goals" },
     "description": {
       "es": "Todos los goles, indicando equipo anotador, jugador, equipo del jugador (considerando goles en contra), minuto y tipo de gol; no incluye penales de definición.",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "route": "/api/pentakicks",
+    "route": "pentakicks",
     "title": { "es": "Penales en Tanda", "en": "Penalty Shoot-out Kicks" },
     "description": {
       "es": "Todos los penales ejecutados en tandas, indicando minuto, jugador y si convirtió; no incluye penales dentro del tiempo de juego.",
@@ -152,7 +152,7 @@
     }
   },
   {
-    "route": "/api/bookings",
+    "route": "bookings",
     "title": { "es": "Tarjetas", "en": "Bookings" },
     "description": {
       "es": "Todas las tarjetas desde 1970, indicando minuto, jugador, tipo de tarjeta, si fue segunda amarilla y si hubo expulsión.",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "route": "/api/substitutions",
+    "route": "substitutions",
     "title": { "es": "Sustituciones", "en": "Substitutions" },
     "description": {
       "es": "Todas las sustituciones desde 1970, indicando minuto, jugador que salió y jugador que entró.",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "route": "/api/host_countries",
+    "route": "host_countries",
     "title": { "es": "Países Anfitriones", "en": "Host Countries" },
     "description": {
       "es": "Todos los países anfitriones e indica hasta qué instancia llegó cada uno.",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "route": "/api/tournament_stages",
+    "route": "tournament_stages",
     "title": { "es": "Fases del Torneo", "en": "Tournament Stages" },
     "description": {
       "es": "Las fases de cada torneo, indicando nombre, tipo (grupos o eliminación directa), si hubo grupos desbalanceados, fechas, cantidad de partidos, equipos, replays, walkovers y playoffs.",
@@ -184,7 +184,7 @@
     }
   },
   {
-    "route": "/api/groups",
+    "route": "groups",
     "title": { "es": "Grupos", "en": "Groups" },
     "description": {
       "es": "Los nombres de los grupos para cada fase de grupos, indicando fase, nombre del grupo y cantidad de equipos.",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "route": "/api/group_standings",
+    "route": "group_standings",
     "title": { "es": "Posiciones de Grupo", "en": "Group Standings" },
     "description": {
       "es": "Las posiciones finales de los grupos, indicando posición, equipo, partidos jugados, ganados, perdidos, empatados, goles a favor y en contra, diferencia, puntos y si avanzó.",
@@ -200,7 +200,7 @@
     }
   },
   {
-    "route": "/api/tournament_standings",
+    "route": "tournament_standings",
     "title": { "es": "Posiciones Finales del Torneo", "en": "Final Tournament Standings" },
     "description": {
       "es": "Las posiciones finales del torneo, donde las primeras cuatro posiciones están ordenadas según los resultados finales.",
@@ -208,7 +208,7 @@
     }
   },
   {
-    "route": "/api/award_winners",
+    "route": "award_winners",
     "title": { "es": "Ganadores de Premios", "en": "Award Winners" },
     "description": {
       "es": "Todos los ganadores de premios, indicando el premio, los jugadores ganadores, el equipo de esos jugadores y si el premio fue compartido.",

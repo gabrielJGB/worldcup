@@ -5,6 +5,10 @@ export default function handler(req, res) {
 
   const { all, key } = req.query; // ejemplo: /api/players  key = "players"
 
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
   try {
 
     const filePath = path.join(process.cwd(), 'data', `${key}.json`);
